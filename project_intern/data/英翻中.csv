@@ -1,0 +1,793 @@
+qid,model,prompt,resp
+0,ground_truth,"幫我把下列英文文章翻譯成中文：
+An antique copper weathervane that was swiped from a Vermont railway station 40 years ago has been found and was returned to the state last week, the Vermont Agency of Transportation has announced.
+The 1910 weathervane is of a steam locomotive and coal tender and was made by W.A. Snow Iron Works Inc. It sat on top of the White River Junction station in Hartford before it was stolen Nov. 3, 1983, the transportation agency said Tuesday. Nearly 40 years later, it was consigned to New York auction house Sotheby’s, officials said.
+The organization Arts Loss Register, which has a database of lost, stolen and looted art, antiques and collectibles, confirmed that the piece was the stolen weathervane, so the auction house pulled it from sale, the transportation agency said.
+The state currently owns the White River Junction station. Arts Loss Register worked with the state to return the weathervane last week, the transportation agency said.","佛蒙特州運輸局宣布，40年前從佛蒙特州火車站遭竊的一座古老銅風向儀已被尋獲，並已於上週歸還該州。
+這座1910年的風向儀是一台蒸汽火車頭加上運煤車，由W.A.白雪鋼鐵廠股份有限公司製造。該運輸局週二說，1983年11月3日失竊以前，它座落於哈特福德鎮白河交匯區車站的頂部。官員說，近40年後，它被託付給紐約拍賣行「蘇富比」。
+該運輸局說，載有丟失、遭竊和被掠奪的藝術品、古董和收藏品數據庫的「失竊藝術品登錄」組織確認，這件作品是那座被盜的風向儀，因此該拍賣行將其下架。
+該州目前轄有白河交匯區車站。該運輸局說，「失竊藝術品登錄」與州政府合作，上週歸還了風向儀。"
+1,ground_truth,"請翻譯成中文：
+Nissan, Honda agree to work together in EV development
+Nissan Motor Co. and Honda Motor Co. have signed an agreement to cooperate in the development of electric vehicles (EV) in a bid to match other Japanese automakers that have formed similar partnerships.
+The two automakers will discuss ways to use the same main parts or share in the procurement of parts for EV development to cut costs.
+Japanese automakers lag behind companies in the United States and China in EV sales due mainly to their long history in producing gasoline vehicles.
+On top of that, Honda has also come out with a goal of selling only EVs or fuel-cell vehicles from 2040.","日產與本田同意合作開發電動車
+日產汽車與本田汽車已簽署一項合作開發電動車的協議，力圖與其他已建立類似合作關係的日本汽車製造商匹敵。
+這兩家汽車製造商將討論如何使用同樣的主要零件，或一起採購用於電動車開發的零件，以降低成本。
+日本汽車製造商在電動車銷售上落後美國與中國的業者，主因在於日企長年生產油車。
+除此之外，本田還提出從2040年起只銷售電動車或燃料電池車的目標。"
+2,ground_truth,"請將這段文字翻譯成中文：
+Microsoft is asking some of its China-based employees to consider transferring outside the country, the company said on Thursday, as relations between U.S. and China grow increasingly strained over technologies like artificial intelligence and semiconductors.
+The employees, mostly engineers of Chinese nationality, were earlier in the week offered an option to transfer to the U.S., Ireland, Australia, and New Zealand, WSJ reported, citing people familiar with the matter.
+The move comes amid spiralling Sino-U.S. relations as President Joe Biden’s administration hiked tariffs on various Chinese imports including electric vehicle (EV) batteries, computer chips, and medical products.","微軟週四表示，由於美中雙方在人工智慧、半導體等科技領域的關係日益緊張，該公司正要求部分駐中國員工考慮轉調至其他國家工作。
+《華爾街日報》援引知情人士的話報導，這些員工多為中國籍工程師，本週稍早該公司已向他們開放可轉調至美國、愛爾蘭、澳洲和紐西蘭的選擇。
+此舉緣於美中關係持續惡化，美國總統拜登政府近期對多項中國進口商品加徵關稅，包括電動車（EV）電池、電腦晶片和醫療產品等。"
+3,ground_truth,"幫我把下列英文文章翻譯成中文：
+Lufthansa’s ground staff will get average pay rises of 12.5 percent under a deal reached after a series of crippling strikes, the German airline giant said Thursday.
+The carrier and union Verdi, which represents some 25,000 ground staff, finally reached an agreement Wednesday, averting the threat of fresh walkouts over the Easter break.
+The 12.5-percent increase was in line with Verdi’s demands, and will be implemented in two stages over two years.
+Employees will also receive bonuses to help combat high inflation of 3000 euros, and improvements in other areas including extra holiday pay and flexible working hours. (AFP)","漢莎航空公司地勤人員在一連串影響嚴重的罷工行動後，達成一份協議，將獲得平均加薪12.5％，這家德國航空巨擘週四說。
+這家航空公司和代表約2萬5000名地勤人員的德國服務業工會，週三終於達成協議，避免了在復活節假期新一波罷工的風險。
+這項12.5％的加薪幅度符合該工會的要求，將在2年期間分2階段實施。
+受僱者也將獲得3000歐元津貼，來協助對抗高通貨膨脹，以及改善其他方面的福利，包括額外的假日工資和彈性工時。"
+4,ground_truth,"幫我翻譯成中文：
+South Korea is readying plans for a support package for chip investments and research worth more than 10 trillion won ($7.31 billion), the finance minister said on Sunday, after setting its sights on winning a ""war"" in the semiconductor industry.
+Finance Minister Choi Sang-mok said the government would soon announce details of the package, which targets chip materials, equipment makers, and fabless companies throughout the semiconductor supply chain.
+The program could include offers of policy loans and the setting-up of a new fund financed by state and private financial institutions. South Korea is also building a mega chip cluster in Yongin, south of its capital, Seoul, which it touts as the world’s largest such high-tech complex.
+President Yoon Suk Yeol has vowed to pour all possible resources into winning the ""war"" in chips, promising tax benefits for investments.","在矢志贏得半導體產業的「戰爭」後，南韓財政部長週日表示，南韓準備推出規模逾10兆韓元（73億美元）的晶片投資與研究支持方案。
+該計畫可能包含提供政策貸款，以及由國家與民間金融機構出資成立一個新基金。南韓也正在首都首爾以南的龍仁市興建一個超大晶片聚落，該聚落號稱是世界最大的相關高科技綜合群中心。
+韓國總統尹錫悅矢志傾注所有可能資源來贏得晶片「戰爭」，承諾為投資提供稅收優惠。"
+5,ground_truth,"請將這段英文翻譯成中文：
+Venice became the world’s first city to introduce a payment system for tourists on Thursday in an effort to thin the crowds that throng its canals, but the fee drew protests from some residents saying they didn’t want to live in a theme park.
+Signs were set up outside the train station and near an entry footbridge warning visitors they had to pay the new 5-euro charge before diving into Venice’s narrow alleyways.
+""We are against this measure because it will do nothing to stop overtourism,"" said resident Cristina Romieri. ""Moreover, it is such a complex regulation with so many exceptions that it will also be difficult to enforce it.""
+Some 20 million people visited Venice last year, a city official said, with roughly half of them staying overnight in hotels or holiday lets - an influx which dwarfs the resident population currently put at around 49,000.","為了減少湧入運河的人潮，威尼斯成為全球首個引進觀光客收費機制的城市。但這項費用引來了部分居民的抗議，稱他們不想住在主題樂園裡。
+火車站外頭和鄰近人行天橋路口處設立了告示，提醒訪客在進入威尼斯的狹窄巷弄前必須支付5歐元的新費用。
+居民克里絲提納．羅邁里表示，「我們反對這項措施是因為這無助阻止過度旅遊」、「而且，如此複雜的規範，有著這麼多的例外，會使得執法難以落實。」
+當地官員提到，去年有約2000萬人造訪威尼斯。約半數會在旅館或度假屋過夜。湧入的人群讓目前約4.9萬的居民人數相形見絀。"
+6,ground_truth,"幫我把下列英文文章翻譯成中文：
+Little green robots could be spotted trundling down the streets of Tokyo’s Nihonbashi district on March 6, their first day at work delivering meals for Uber Eats Japan Inc.
+The company plans to expand the use of these self-driving robots to more areas facing delivery staff shortages.
+“We expect this robot could be one solution to complement human delivery,” a company official said, touching on the so-called “2024 problem,” which anticipates labor shortages in the logistics industry.
+Japan is the second country in which Uber Eats has rolled out the robot delivery service, following the United States.","3月6日是綠色小機器人上工為日本Uber Eats送餐的首日，可以看到它們在東京日本橋一帶沿街緩慢前行的身影。
+該公司計畫將使用自駕機器人（送餐）的範圍，擴展到更多有送餐人力短缺問題的地區。
+「我們期望該機器人能成為補充人力送餐的解方之一，」該公司1名官員在簡述所謂的「2024年問題」—即預期物流業將缺工—時如是說。
+日本是繼美國之後，Uber Eats第2個推出機器人送餐服務的國家。"
+7,ground_truth,"以下是一篇英文內容，請幫我翻譯成中文：
+Bosses worried about turnover or wondering how long a new hire will stick around can now turn to AI for a heads-up on who might be next out the door.
+The artificial intelligence tool was developed by Japanese researchers to try and help managers provide targeted support to staff to stop them from quitting.
+It crunches data on employees at a company, from their attendance record to personal information such as age and gender, and was created by Tokyo City University professor Naruhiko Shiratori with a startup based in the capital.
+The tool also analyses data on employees who left the company, or took a leave of absence, to create a turnover model for each firm.
+Then when fed data on new recruits, it predicts who is at risk of quitting ""in percentage points,"" Shiratori, a media education expert, told AFP.","擔心人員流動或想知道新員工能堅持多久的老闆，現在可以求助於人工智慧，以預先留意即將離職的人。
+這項人工智慧工具是由日本研究人員所研發，旨在幫助管理層為員工提供針對性的支援，阻止他們辭職。
+這項工具由東京都市大學教授白鳥成彥與東京一家新創公司創建，可以處理公司員工的數據，從出勤紀錄到年齡、性別等個人資訊。
+該工具還會分析離職或請假員工的數據，為每家公司建立人員流動模型。
+媒體教育專家白鳥告訴法新社，當輸入新員工的資料時，它會「以百分比的形式」預測誰有辭職的風險。"
+8,ground_truth,"幫我把下列英文文章翻譯成中文：
+An orangutan appeared to treat a wound with medicine from a tropical plant— the latest example of how some animals attempt to soothe their own ills with remedies found in the wild, scientists reported Thursday.
+Scientists observed Rakus pluck and chew up leaves of a medicinal plant used by people throughout Southeast Asia to treat pain and inflammation. The adult male orangutan then used his fingers to apply the plant juices to an injury on the right cheek. Afterward, he pressed the chewed plant to cover the open wound like a makeshift bandage, according to a new study in Scientific Reports.
+Previous research has documented several species of great apes foraging for medicines in forests to heal themselves, but scientists hadn’t yet seen an animal treat itself in this way. ","科學家週四報告一些動物如何嘗試以野外發現的療法，來緩解自身疾病的最新實例：一隻紅毛猩猩似乎用熱帶植物的藥物，來治療傷口。
+科學家觀察到，Rakus採摘並嚼碎一種人們在整個東南亞地區用來治療疼痛和炎症的藥用植物的葉子。這隻成年雄紅毛猩猩隨後以手指，將植物汁塗抹在右側臉頰的傷口上，然後將嚼碎的植物壓在傷口上，像臨時繃帶一樣覆蓋開放性傷口，根據最新一期《科學報告》期刊的研究。
+先前的研究記錄了幾種大型猿類在森林中尋找藥物自我治療的現象，但科學家還未見過動物以這種方式自療。"
+9,ground_truth,"請翻譯成中文：
+A black-walled dining hall with 2,000-year-old paintings inspired by the Trojan War has been discovered during excavations at the Roman city of Pompeii, authorities said on Thursday.
+The size of the room - about 15 metres long and 6 metres wide - the quality of the frescoes and mosaics from the time of Emperor Augustus, and the choice of characters suggest it was used for banquets, Pompeii Archaeological Park said.
+Pompeii and the surrounding countryside was submerged by volcanic ash when Mount Vesuvius exploded in AD 79, killing thousands of Romans who had no idea they were living beneath one of Europe’s biggest volcanoes.
+According to Greek mythology, Cassandra predicted the Trojan War after receiving the gift of foresight from Apollo, but no-one believed her. This was because of a curse Apollo put upon her for refusing to give herself to him.","在古羅馬龐貝城進行的挖掘工作中發現了一間飯廳，黑色牆面上繪有以特洛伊戰爭為發想的2000年歷史畫作。
+龐貝考古??公園表示，飯廳格局長約15公尺、寬6公尺。從奧古斯都皇帝時期的壁畫和馬賽克的特質，以及人物的挑選來看，顯示它是用於宴會場合。
+西元79年維蘇威火山爆發後，龐貝城及其周邊村落被掩埋在火山灰之下，成千上萬的羅馬人喪生，他們全然不知自己生活在歐洲最大火山之一下方。
+根據希臘神話，卡珊卓從阿波羅得到預言天賦後，預測了特洛伊戰爭的爆發，但沒有人相信她。這是因為她拒絕獻身給阿波羅，所以阿波羅對她下了詛咒。"
+10,ground_truth,"幫我把下列英文文章翻譯成中文：
+The annual challenge to climb Mount Fuji became more expensive this season, along with the number of climbers per day sharply curtailed.
+The Yamanashi prefectural assembly unanimously approved an ordinance on March 4 requiring a 2,000 yen toll for climbing Japan’s highest peak from the Yoshida trail in the prefecture.
+In a regulation to enact the ordinance, the prefecture also plans to limit the number of climbers per day to 4,000. The new rules will go into effect this summer to mitigate congestion.
+Climbers will be barred from further going up the route if they don’t pay the toll at a checkpoint installed at the fifth station of the mountain.","攀登富士山此一年度挑戰本季將變得更貴，外加大砍每日獲准登山的人數。
+（日本）山梨縣縣議會3月4日無異議通過的一項條例規定，從該縣的吉田路線攀登這座日本最高峰，要繳2千日圓的通行費。
+在該條例的施行規則中，該縣還計劃將每日登山人數限制在4千人。該新規定將在今夏生效，以緩解登山擁塞。
+登山客若不在設置於富士山五合目的檢查哨繳費，將被禁止從吉田路線登山。"
+11,ground_truth,"以下提供英文文章，請幫我翻譯成中文：
+Sunny prides herself on being a law-abiding Singaporean citizen, but for the last three years, she’s been hiding a feline fugitive called Mooncake.
+The fluffy ragdoll lives with Sunny in defiance of a 34-year-old law banning cats in the government-built apartments that house the vast majority of Singaporeans.
+Luckily for Mooncake, Singapore plans to scrap the ban later this year, freeing Sunny from the threat of a S$4,000 fine or her pet’s potential eviction.
+""Cats are so much quieter than dogs. If they allow dogs, I don’t understand why not cats,"" said 30-year-old Sunny.
+Authorities rarely enforce the ban, which only applies to the high-rise Housing and Development Board (HDB) apartment blocks where 80% of 3.6 million Singaporeans live, and it has long been flouted by countless cat lovers.","桑妮為自己是1名守法的新加坡公民而自豪，但在過去3年裡，她一直藏匿1隻名叫「月餅」的逃亡貓。
+這隻毛茸茸的布偶貓與桑妮住在一起，違反1項已有34年歷史的法律，該法律禁止貓進入政府建造的公寓，而絕大多數新加坡人都住在政府建造的公寓。
+對「月餅」來說，幸運的是，新加坡計畫在今年稍後廢除這項禁令，讓桑妮免受4000新幣罰款，或她的寵物可能被驅逐的威脅。
+30歲的桑妮說：「貓比狗安靜多了。如果政府允許養狗，我不懂為何不能養貓。」
+當局很少執行這項禁令，該禁令只適用於新加坡建屋發展局規劃的高層公寓大樓；360萬名新加坡人中，有80％居住在這類公寓大樓，無數愛貓人士長期以來一直蔑視這項禁令。"
+12,ground_truth,"幫我把下列英文文章翻譯成中文：
+A bedbug scare in Paris last autumn that grabbed headlines across the globe was artificially amplified by social media accounts linked to Russian ""disinformation"" activities, a French minister said on Friday.
+""The bedbug polemic was in a very large part amplified by accounts linked to the Kremlin, and they even created a false link between the arrival of Ukrainian refuges and the spread of bedbugs,"" French European affairs minister Jean-Noel Barrot told TF1 television.
+After social media users published footage of the insects crawling around in high-speed trains and the Paris metro, French and foreign media widely reported on the scare.
+Asked if the government believes Russian accounts had ""orchestrated"" the panic, Barrot did not confirm, saying instead the disinformation campaign ""amplified"" an existing scare with the aim of creating a sentiment of insecurity. ","上個秋季成為全球頭條的一場巴黎床蝨恐慌，是被和俄羅斯「假資訊」行動有關聯的社群媒體帳號人為放大的，法國一名部長週五說。
+法國歐洲事務部長尚—諾爾‧巴霍向TF1電視台說，「這場床蝨論戰，很大一部份是被和克里姆林宮有關聯的帳號放大，他們甚至捏造烏克蘭難民入境和床蝨蔓延之間的連結」。
+在社群媒體用戶發表這些蟲子在高鐵和巴黎捷運四處爬的影像後，法國和外國媒體廣泛報導了這場驚慌。
+被問到政府是否相信，俄羅斯帳號「策劃」這起恐慌，巴霍並未證實，但他說這場假資訊行動，帶著製造一種不安情緒的目的，「放大了」既有的恐懼。"
+13,ground_truth,"我需要一個中文的翻譯：
+JPMorgan Chase CEO Jamie Dimon says he’s hopeful the Federal Reserve can bring down inflation without causing a recession but wouldn’t rule out more troubling possibilities, such as stagflation.
+In an interview with The Associated Press, Dimon said he remained “cautious” about the U.S. economy and said inflation may be stickier for longer and that stagflation is on the list of possible things that could happen to the U.S. economy.
+Dimon did emphasize that he’s still “hopeful” for the U.S. economy to experience a soft landing, where growth slows but the economy avoids a recession even if inflation remains a little high, but he’s not certain that is the most likely outcome.","摩根大通執行長傑米‧戴蒙說，他希望聯準會能在不引發衰退的情形下降低通膨，但不排除更令人不安的可能性，比如停滯性通膨。
+在接受美聯社的訪問中，戴蒙說，他對於美國經濟仍持「謹慎」態度，並表示，更具黏性的通膨或許持續較長時間，而在美國經濟可能發生的事項上，停滯性通膨榜上有名。
+戴蒙確實強調他仍「希望」美國經濟經歷軟著陸，亦即經濟成長放緩，但避免步入衰退，即使通膨仍有一點高，但他不確定那是最可能出現的結果。"
+14,ground_truth,"請將這段英文翻譯成中文：
+The U.S. Food and Drug Administration’s accelerated approval program is meant to give patients early access to promising drugs. But how often do these drugs actually improve or extend patients’ lives?
+In a new study, researchers found that most cancer drugs granted accelerated approval do not demonstrate such benefits within five years.
+The program was created in 1992 to speed access to HIV drugs. Today, 85% of accelerated approvals go to cancer drugs.
+The new study found that between 2013 and 2017, there were 46 cancer drugs granted accelerated approval. Of those, 63% were converted to regular approval even though only 43% demonstrated a clinical benefit in confirmatory trials.","美國食品暨藥物管理局（FDA）的加速批准計畫，旨在讓患者儘早獲得可能有效的藥物。但是，這些藥物實際上多久能改善或延長患者的生命呢？
+在一項新研究中，研究人員發現，大多數獲得加速批准的抗癌藥物，在隨後5年內並未證實其療效。
+該計畫創建於1992年，旨在加快獲得用於治療愛滋病毒藥物的速度。如今，85％的加速批准用於抗癌藥物。
+這項新研究發現，在2013年至2017年期間，有46種抗癌藥物獲得加速批准。其中，63％轉為常規批准，儘管只有43％在驗證性試驗中顯示臨床益處。"
+15,ground_truth,"幫我把下列英文文章翻譯成中文：
+A shortage of eggs in shops during Holy Week has led Norwegians to flock to supermarkets across the border in Sweden and hoard the traditional Easter food.
+Norwegian news outlet Nettavisen said Thursday that the Nordby shopping center in Sweden, located just off the border about 100 kilometers south of the capital, Oslo, has been filled by “desperate” Norwegians trying stock up on eggs.
+The center’s Maxi-Mat food store ran out of eggs Tuesday, while the adjacent Nordby Supermarket has had to limit the number of eggs purchased to three 20-packs per household, the news outlet reported.
+Concerns about overproduction of eggs in Norway led to farmers being offered compensation to reduce egg production. That and the effects of bird flu have led to a shortage, according to news reports.","聖週期間商店裡雞蛋短缺，導致挪威人湧向瑞典邊境的超市，囤積傳統的復活節食品。
+挪威新聞媒體「網路報」週四說，首都奧斯陸以南約100公里位於邊境附近的瑞典「諾德比」購物中心，擠滿了「奮不顧身」的挪威人，他們試圖囤積雞蛋。
+該新聞媒體報導，該購物中心的「Maxi-Mat」食品店雞蛋告罄，而一旁的「諾德比超市」不得不將每戶購買雞蛋數量限制為3盒20顆裝。
+擔心挪威雞蛋產量過剩，農民因而獲得減少雞蛋產量的補償。根據新聞報導，這種情況以及禽流感的影響，導致雞蛋短缺。"
+16,ground_truth,"幫我把下列英文文章翻譯成中文：
+John and Melody Hennessee opted for an exciting and cost-effective permanent cruise lifestyle, currently sailing worldwide and planning to reside on a unique residential cruise ship.
+76-year-old John and 64-year-old Melody, both from Florida, sold nearly all of their belongings three years ago, including their main business and their home.
+The lovebirds are reportedly now cruising around the Dominican Republic, Sky News reported.
+And as much as their new life at sea has been all the more exciting, it’s the cheaper cost of living that has made it all worth it.
+""We no longer have a mortgage or the expense of homes. We no longer have vehicle insurance, property insurance, or utility bills. We are certain cruising is cheaper. Right now it is probably close to half of what it was when we lived on land.""","約翰和美樂蒂‧軒尼詩選擇了令人興奮且划算的永久性郵輪生活，他們計畫住在一艘獨一無二的住宅式郵輪上，目前正環遊世界。
+來自佛羅里達州的76歲約翰和64歲美樂蒂，在3年前賣掉幾乎所有財產，包括主要的事業和房屋。
+根據《天空新聞》報導，這對眷侶目前航行到多明尼加共和國附近。
+就像他們的海上新生活更令人興奮一樣，生活成本更便宜也讓這一切很值得。
+「我們不再有貸款或住房費用，我們不再有車險、財險或水電費。我們確信郵輪生活更省錢，現在的開銷可能接近我們生活在陸地上的一半。」"
+17,ground_truth,"以下提供英文文章，請幫我翻譯成中文：
+Jon Stewart’s tearful farewell to his dog, Dipper, on The Daily Show Monday quickly had the New York City animal shelter the pup came from inundated with donations. Five days later, the money is still rolling in.
+""We’re just shy of $50,000,"" Tiffany Lacey, Animal Haven’s executive director, told CBS News on Friday.
+""This is in memory of Dipper, so the donations will be used for the dogs,"" notably vet care, training, food and treats, Lacey added.
+The no-kill shelter, which is in Manhattan, has an operating budget of about $3 million and houses about 100 dogs and cats.","（美國電視脫口秀主持人）喬恩．史都華週一在《每日秀》節目上淚別愛犬「迪普」，迅速讓「迪普」出身的那家紐約市的動物收容所收到大量捐款。5天後，捐款仍源源不絕。
+「我們（收到的捐款）逼近5萬美元」，動物收容所「動物天堂」的執行長蒂芬妮．雷西週五告訴哥倫比亞廣播公司新聞。
+雷西還說：「這（大量湧入的捐款）是緬懷『迪普』，所以捐款將用於狗的身上，」特別是看獸醫、接受訓練、採買狗食與零嘴。
+這家位於（紐約市）曼哈頓、主張不撲殺的動物收容所的營運預算約有300萬美元，目前收容約100隻犬貓。"
+18,ground_truth,"請將這段英文翻譯成中文：
+The number of babies born in Japan fell for an eighth straight year to a fresh record low in 2023, preliminary government data showed on Tuesday, underscoring the daunting task the country faces in trying to stem depopulation.
+The number of births fell 5.1% from a year earlier to 758,631, while the number of marriages slid 5.9% to 489,281 － the first time in 90 years the number fell below 500,000 － foreboding a further decline in the population as out-of-wedlock births are rare in Japan.
+""The declining birthrate is in a critical situation,"" Chief Cabinet Secretary Yoshimasa Hayashi told reporters. ""The next six years or so until 2030, when the number of young people will rapidly decline, will be the last chance to reverse the trend.""","2023年日本新生兒人數連續第8年下跌，達到新低紀錄，週二的政府初步數據顯示，凸顯該國在設法遏止人口減少上，面臨艱鉅任務。
+這項出生人數比前一年減少5.1％，減至75萬8631人，同時結婚人數下滑5.9％至48萬9281對，是90年來首次低於50萬對，由於日本非婚生子相當罕見，因此這預示人口將進一步減少。
+內閣官房長官林芳正向記者說，「出生率減少處於危急情況」，「到2030年為止的接下來6年左右，將是逆轉這個趨勢的最後機會，屆時年輕人數量會急遽減少」。"
+19,ground_truth,"幫我把下列英文文章翻譯成中文：
+It rained marshmallows at a suburban Detroit park on Friday as children raced to snatch up thousands of the gooey treats being dropped from a helicopter.
+The annual Great Marshmallow Drop took place at Catalpa Oaks County Park in Southfield, hosted by Oakland County Parks.
+Hundreds of children waved and cheered as the helicopter passed by on its way to the drop zone. Once there, a passenger dumped the treats out of a sack and onto the grass below and children darted to collect them.
+“It was just a celebration. The weather is beautiful, so we were happy to get outdoors and interact and pick up some marshmallows,” said Robin Kinnie, the mother of three Great Marshmallow Drop participants, one of whom took part in a special drop reserved for children with disabilities.
+“Being a special needs mom, I love seeing events like these that are catered toward him, so he doesn’t feel excluded,” Kinnie said. ","底特律郊區一處公園週五下起棉花糖雨，孩子們爭相搶奪從直升機投下的成千上萬塊黏糊糊零食。
+由奧克蘭郡公園處主辦，一年一度的「棉花糖大降落」活動在紹斯菲爾德的梓櫟郡公園舉行。
+那架直升機飛往降落區的途中經過時，成百上千名兒童揮手歡呼。到達後，一名乘客把零食從一個袋子倒到下方草地上，然後孩子們衝過去領取它們。
+3個孩子都是「棉花糖大降落」參與者且其中一個參加了保留給身障兒童的特別空投，3寶媽羅賓．金尼說，「這只是一場慶祝活動。天氣很好，所以我們很高興能到戶外互動並撿些棉花糖」。
+金尼說，「作為一名有特殊需求的媽媽，我喜歡看到這類迎合他的活動，這樣他就不會覺得被排除在外。」"
+20,ground_truth,"我需要一個中文的翻譯：
+Retired catering carts used in Shinkansen will go on sale, targeting a small but dedicated community of nostalgic train buffs willing to fork out 100,000 yen per unit.
+The 50 carts up for sale were used on the Tokaido Shinkansen Line for five to nine years until 2023, offering food and drinks to bullet train passengers.
+The carts were retired in October last year when the train operator ended catering service on the line － to the dismay of many passengers.
+Catering service on the Tokaido Shinkansen Line started soon after the route opened in 1964, serving refreshments, bento box lunches, coffee and beloved ice cream.","（日本）新幹線的退役餐飲推車將出售，客群鎖定一小撮懷舊、願為每輛要價10萬日元的餐車買單的鐵道迷。
+50輛待售的餐飲推車曾在東海道新幹線服役5到9年直至2023年，為子彈列車的乘客提供餐飲。
+在鐵道營運業者做出令許多乘客沮喪的終止該路線的餐飲服務的決定後，這些餐飲推車在去年10月退役。
+東海道新幹線的餐飲服務始於1964年該路線開通後不久，提供點心、便當、咖啡，以及深受喜愛的冰淇淋。"
+21,ground_truth,"以下是一篇英文內容，請幫我翻譯成中文：
+New Zealand opened its first hospital exclusively treating kiwi birds, and vets have already nursed the first patient back to health － a chick nicknamed ""Splash"" that tumbled into a swimming pool.
+Rising numbers of the once-threatened national bird have led to the construction of a purpose-built facility in Kerikeri, a three-hour drive north of Auckland.
+The rehabilitation centre is in the heart of the Northland region, which has a brown kiwi population of nearly 10,000.
+The Department of Conservation said the population growth is a result of successful predator management, ""but without sustained effort, brown kiwi could easily slide back into a threatened status.""","紐西蘭開設該國第一家專門治療奇異鳥的醫院，而且獸醫已經照料首名患者恢復健康—一隻跌進游泳池、被暱稱為「嘩啦」的雛鳥。
+這種一度瀕危的國鳥數量增加，促使在奧克蘭以北、開車3小時的凱里凱里設立這間專門設施。
+這家療養中心位於北地大區心臟地帶，該地區的北島褐鷸鴕族群數量將近1萬隻。
+保育部說，奇異鳥族群增加，是掠食動物管理成功的成果，「但沒有持續努力，北島褐鷸鴕很容易就又回到受威脅地位」。"
+22,ground_truth,"請翻譯成中文：
+A slew of Federal Reserve officials emphasized that there is no urgency to lower interest rates, pointing to still-elevated inflation and a robust labor market.
+That included comments from both the Boston Fed’s Susan Collins as well as San Francisco’s Mary Daly. Atlanta’s Raphael Bostic repeated his view for one rate cut toward the end of the year, and Kansas City’s Jeffrey Schmid noted he prefers a “patient” approach to reductions.
+“There’s absolutely, in my mind, no urgency to adjust the policy rate,” Daly said at an event in San Francisco.
+Schmid also said policymakers should wait for “clear and convincing” evidence that inflation is headed back toward 2% before lowering interest rates, rather than adjusting policy preemptively.","多名聯邦儲備（銀行）官員強調，沒有降息的急迫性，他們提及仍居高不下的通膨，以及穩健的勞動市場。
+做出這些評論的包括波士頓聯邦儲備銀行的科林斯，與舊金山的達利。亞特蘭大的波斯提克重申今年底降息1次的觀點，堪薩斯城的施密德則提到他偏向「耐心」的降息方式。
+「在我看來，絕對沒有調整政策利率的急迫性」，達利在舊金山一場活動上說。
+施密德也表示，決策者應等待「明確且令人信服」的證據，顯示降息之前，通膨朝著2％回落，而非搶先調整政策。"
+23,ground_truth,"幫我把下列英文文章翻譯成中文：
+A book from Egypt that was written at the dawn of Christianity and is considered one of the oldest books in existence will go up for auction in June in London.
+The Crosby-Schoyen Codex - written in Coptic on papyrus around 250-350 AD, and produced in one of the first Christian monasteries - has an estimated sale value of $2.6 million to $3.8 million, according to Christie’s.
+The 104 pages (52 leaves) were written by one scribe over a period of 40 years at a monastery in upper Egypt and are preserved behind plexiglass. The codex contains the first epistle of Peter and the Book of Jonah.
+The codex was discovered in Egypt in the 1950s and acquired by the University of Mississippi, where it remained until 1981. Norwegian manuscript collector Dr. Martin Schoyen acquired it in 1988 and is now auctioning it off with some other highlights of his Shoyen Collection, one of the largest private manuscript collections in the world.","埃及一本寫於基督教黎明之時的書籍，被視為現存最古老書本之一，將在六月於倫敦進行拍賣。
+據佳士得說法，西元250至350年間，克羅斯比-舒延手抄本在早期的一間基督教修道院中，以科普特語在莎草紙上寫成。預估拍出價格為260萬至380萬美元。
+這本104頁（52張）的手抄本由一名抄寫員於上埃及的一座修道院中花費40年著書。現在保存在有機玻璃後。手抄本包含了彼得前書和約拿書。
+手抄本於1950年代從埃及出土，由密西西比大學取得並保有至1981年。挪威手抄本蒐集家馬丁．舒延博士在1988年取得。如今與其它的舒延收藏一些精品品項一同拍賣。舒延收藏是全世界最具規模的私人手抄本收藏之一。"
+24,ground_truth,"以下是一篇英文內容，請幫我翻譯成中文：
+Hong Kong’s luxury retailers are adapting to fewer wealthy Chinese shoppers visiting the city and a shift towards tourists flocking to Instagram-coveted spots in trendy districts rather than splashing out on pricey branded gear.
+Before the pandemic, the Chinese special administrative region had bucked global trends of declining demand for multi-brand department stores and ultra-luxury brands largely due to its attractiveness to high-spending mainland visitors.
+But the rise of competing shopping hubs like China’s Hainan island, changing consumer preferences and a rise in online shopping have fundamentally changed demand for luxury goods in Hong Kong and are starting to reshape the city’s visitor economy, according to industry experts.","（由於）較少有錢的中國血拚族訪港，以及遊客轉而湧向流行區的IG網紅景點而非花大錢買昂貴的名牌貨，香港奢侈品零售業者正為此做調適。
+武肺疫情爆發前，儘管對集合眾多品牌的百貨公司以及超奢名牌的需求降低已成全球趨勢，香港這個中國特區卻逆勢而上，（其原因）大抵上在於香港對花錢不手軟的中客頗具吸引力。
+根據業界專家，但像海南島等與香港爭奪購物樞紐寶座的地區的崛起、消費者偏好改變，以及網上購物的興起，對香港奢侈品的需求已從根本上改變，並且開始重塑香港的遊客經濟。"
+25,ground_truth,"幫我把下列英文文章翻譯成中文：
+Spanish low-cost airline Vueling has started offering treats for pets as part of the buy-on-board menu on its flights, it said, adding that it was the first such initiative in Europe.
+Vueling, which allows passengers to travel with pets of up to 8 kilograms, has developed the concept jointly with Belgian pet food maker Edgard & Cooper and the menu will include chicken bars and beef bites priced at 3.50 euros and 5.50 euros, respectively.
+A significant part of Vueling’s customer base travels with pets and there is demand for such a service, the airline said. ""We are trying to be diverse,"" it added.","西班牙廉價航空公司伏林航空表示，已開始在其航班上提供寵物零食，為機上購物清單的一部分，並補充道，此舉是歐洲首創。
+允許乘客攜帶重量最高8公斤寵物旅行的伏林航空，與比利時寵物食品製造商Edgard & Cooper共同想出這個點子，菜單將包含雞肉條和牛肉塊，售價分別是3.50歐元（約122台幣）和5.50歐元（約192台幣）。
+伏林航空表示，他們的客群中有很大一部分攜帶寵物旅行，有這類服務的需求。該公司補充道：「我們正在努力實現多元化。」"
+26,ground_truth,"請將這段英文翻譯成中文：
+Anyone who’s set foot in Italy knows there are unwritten rules that one must abide by – and the most important of all revolve around food.
+Cappuccino after 11 a.m.? Only for tourists. Spaghetti bolognese? A horrifying thought. Pineapple on your pizza? Heresy – at least, it was until now.
+But 2024 might just be the year that pineapple pizza cracks Italy, thanks to Gino Sorbillo, the renowned Naples pizzaiolo (pizza maestro) who has added the dreaded “ananas” to his menu in Via dei Tribunali, the best known pizza street in the world capital of pizza.
+Sorbillo, a third-generation pizzaiolo, told CNN that he created it to “combat food prejudice.”","任何踏足義大利的人都知道，有些不成文規則你不得不遵守—而最重要的不成文規定皆與食物有關。
+上午11點過後喝卡布奇諾？只有遊客才醬。番茄肉醬義大利麵？多可怕的想法。披薩上放鳳梨？這是邪門歪道—至少迄今是邪門歪道。
+但2024年可能正是鳳梨披薩席捲義大利之年。拜那不勒斯的知名披薩師傅索爾畢洛之賜，他已將可怕的「鳳梨」，加入他在世界披薩之都（那不勒斯）最知名的披薩街法庭街（上的披薩店）的菜單。
+第3代披薩師傅索爾畢洛告訴美國有線電視新聞網，他創造鳳梨披薩是為了「與食物偏見對戰」。"
+27,ground_truth,"幫我把下列英文文章翻譯成中文：
+A huge clam that was on the verge of extinction has made a comeback, with a surge in numbers in waters off Croatia, marine biologists say.
+The clam, known as the noble pen shell or pinna nobilis, started dying out as a deadly pathogen spread in parts of the Mediterranean around 2016. Numbers plummeted across the region and scientists in Croatia only knew of around 10 surviving in their corner of the Adriatic.
+Then in 2022, a diver spotted a group of 20 near the shore in the north of the Istria peninsula.
+In 2023, biologists managed to collect about 100 young specimens and take them to an aquarium. It was a sign that they are still reproducing themselves.
+The clams, whose shells can grow as much as 120 cm, can filter sea water and allow other organisms to flourish.","海洋生物學家表示，一種瀕臨絕種的巨型蛤蜊回來了，牠們在克羅埃西亞附近海域的數量大幅增加。
+2016年左右，這種被稱為大江珧（音同姚）蛤的蛤蜊開始滅絕，因為一種致命的病原體在地中海部分地區傳播。整個地中海地區的蛤蜊數量開始急劇下降，克羅埃西亞科學家僅知道有10隻存活在亞得里亞海一角。
+在2022年，一名潛水夫在伊斯垂亞半島北部海岸附近發現約20隻大江珧蛤。
+2023年，生物學家設法捕捉到約100隻幼年樣本，並將牠們帶到水族館。這表示牠們仍在自我繁殖。
+這種蛤蜊的殼直徑可達120公分，可過濾海水，並促進其他有機體繁衍。"
+28,ground_truth,"幫我把下列英文文章翻譯成中文：
+A bounty of 10 African penguin chicks has hatched in just over a year at a San Francisco science museum.
+The penguins began hatching in November 2022, ending a four year period without any new chicks, and continued through January of this year, the California Academy of Sciences announced Wednesday.
+African penguins have dwindled to 9,000 breeding pairs in the wild, the academy said in a statement.
+Threats such as overfishing, habitat degradation and oil spills have reduced colonies of the charismatic black-and-white birds, said Brenda Melton, director of animal care and well-being at the museum’s Steinhart Aquarium.
+“Every chick we welcome strengthens the genetics and overall population of the species in human care,” she said.","舊金山一家科學博物館在僅僅1年多內，就孵育出多達10隻非洲企鵝幼雛。
+這群企鵝從2022年11月起陸續孵化出來，並且持續到今年1月結束，終結了一段為期4年都無任何新幼雛誕生的時期，加州科學博物館週三宣布。
+這所科博館在聲明中說，野生非洲企鵝數量已經減少到9000對具繁殖能力的雌雄企鵝。
+過度捕撈、棲息地惡化以及漏油等威脅，減少了這種迷人的黑白色鳥類族群，這間科博館的史坦哈特水族館動物照護與福利部門主任布蘭達．梅爾頓說。
+「我們迎接的每一隻幼雛，都強化了在人類照顧下物種遺傳基因和整體族群數量」，她說。"
+29,ground_truth,"請將這段英文翻譯成中文：
+Cambodian Prime Minister Hun Manet has ordered a ban on musical horns, after videos posted on social media showed people dancing on roads and roadsides as passing trucks blasted rhythmic little tunes.
+Hun Manet called on the Ministry of Public Works and Transportation and police across the country to immediately take action against any vehicle whose normal horn has been replaced by a tune-playing one by ripping it out and restoring the standard honking type.
+He commented on his Facebook page on Monday that recent social media posts had shown “inappropriate activity committed by some people, especially youth and children, dancing on the roadside to the musical sounds from trucks’ horns.”
+Hun Manet said such dancing affects public order and poses a traffic hazard that is a threat to life and limb, not least of all to the dancers themselves. For Cambodians, there will be no more dancing in the street.","社群媒體上發布的影片顯示，當過往的卡車播放有節奏的短曲時，人們在馬路和路邊跳舞，柬埔寨總理韓馬內下令禁止使用音樂喇叭。
+韓馬內呼籲公共工程和運輸部和全國各地的警察，立即對把正常喇叭換成會播放曲子喇叭的任何車輛採取行動，拆掉這些喇叭，恢復標準的喇叭樣式。
+韓馬內週一在自己的臉書頁面評論說，最近的社群媒體發文顯示，有些人，尤其是青少年和兒童，在路邊伴隨著卡車喇叭的音樂聲跳舞，做出不當行為。
+韓馬內說，這類舞蹈影響公共秩序，造成交通危害，進而危及生命和肢體，尤其是對舞者本身。而對柬埔寨人來說，今後街上將不再有人跳舞。"
+30,ground_truth,"幫我把下列英文文章翻譯成中文：
+Microsoft said Friday it’s still trying to evict the elite Russian government hackers who broke into the email accounts of senior company executives in November and who it said have been trying to breach customer networks with stolen access data.
+The hackers from Russia’s SVR foreign intelligence service used data obtained in the intrusion, which it disclosed in mid-January, to compromise some source-code repositories and internal systems, the software giant said in a blog and a regulatory filing.
+Microsoft said Friday that the hackers stole ""secrets"" from email communications between the company and unspecified customers — cryptographic secrets such as passwords, certificates and authentication keys —and that it was reaching out to them ""to assist in taking mitigating measures.""","微軟週五表示，他們仍在努力驅逐那些在11月入侵公司高級主管電郵帳號戶的俄羅斯政府精英駭客，這些駭客據稱一直試圖利用竊取的存取數據，入侵客戶網路。
+這家軟體巨擘在部落格和監管文件中表示，來自俄羅斯對外情報機構「對外情報局」（SVR）的駭客，利用1月中旬披露的入侵所獲得的數據，危及一些原始碼儲存庫和內部系統。
+微軟週五表示，駭客從公司與非特定客戶之間的電郵通訊中，竊取「秘密」——例如密碼、憑證和驗證金鑰等加密密碼，該公司正與這些客戶聯繫，「以協助採取緩解措施」。"
+31,ground_truth,"幫我把下列英文文章翻譯成中文：
+In a new study involving a group of polyglots, the brain activity of the participants was monitored using a method called functional magnetic resonance imaging as they listened to passages read in various languages.
+With one intriguing exception, activity increased in the areas of the cerebral cortex involved in the brain’s language-processing network when these polyglots - who spoke between five and 54 languages - heard languages in which they were the most proficient compared to ones of lesser or no proficiency.
+But an exception caught the attention of the researchers. In many of the participants, listening to their native language elicited a lesser brain response compared to hearing other languages they knew - on average down about 25%. And in some of the polyglots, listening to their native language activated only a part of the brain’s language network, not the whole thing.","由一群多語者參與的一項新研究，使用一種名為功能性磁振造影的技術，在參與者聆聽以各種語言朗讀的文章段落時監測其腦部活動。
+一項引人好奇的例外情況是，比起較不熟稔或不熟稔的語言，這些具備5至54種語言能力的多語者在聽聞最精通的語言種類時，大腦皮質涉及語言處理網路的區域就會更加活躍。
+但有另一項引起研究員注意的例外。許多參與者在聽到自己的母語時，引起的腦部反應比聽到其它知曉的語言時更少，平均減少約25％。部分多語者聽到母語時僅觸發大腦語言網路的一部分，而非全部。"
+32,ground_truth,"我需要一個中文的翻譯：
+China’s embassy in Seoul has warned citizens against the dangers of having plastic surgery done in South Korea.
+South Korea is one of the world’s most popular destinations for medical tourism, canvassing foreign patients in the past decade, the bulk of whom come from China and the United States, data provider Statista says.
+""In recent years, many foreigners have come to South Korea for cosmetic surgery, and some people have been involved in medical disputes and surgical failures and even deaths have occurred,"" the Chinese embassy said in a note to the public.
+""If there is a major change in (your) postoperative appearance, or if you are still in the postoperative recovery stage, you should bring the surgical certificate when you leave the country,"" the embassy added.
+Such a precaution would help avoid complications with check-in or subsequent entry and exit procedures, it said. ","中國駐首爾大使館警告其公民，在南韓做整形手術的危險。
+數據提供網站Statista指出，南韓是全球最熱門醫療旅遊目的地之一，過去10年吸引外國患者，其中大部分來自中國和美國。
+「近年許多外國人到南韓做整形手術，有些人發生醫療糾紛、手術失敗，甚至死亡事件」，中國大使館在一份公告中說。
+「如果（你的）術後容貌發生較大變化，或者你還在術後恢復期，離開該國時應該攜帶手術證明」，大使館還說道。
+聲明說，這類預防措施將有助於避免對辦理登機，或者後續出入境手續的影響。"
+33,ground_truth,"幫我把下列英文文章翻譯成中文：
+The first over-the-counter birth control pill will be available in U.S. stores later this month, allowing American women and teens to purchase contraceptive medication as easily as they buy aspirin.
+Manufacturer Perrigo said Monday it has begun shipping the medication, Opill, to major retailers and pharmacies. A one-month supply will cost about $20 and a three-month supply will cost around $50, according to the company’s suggested retail price. It will also be sold online.
+Opill is an older class of contraceptive, sometimes called minipills, that contain a single synthetic hormone, progestin, and generally carry fewer side effects than more popular combination estrogen and progestin pills.","第一種可以在美國商店購買的非處方避孕藥，將於本月晚些時候上市，使美國婦女和青少年能夠像購買阿斯匹靈一樣，輕鬆地獲得避孕藥物。
+製造商「百利高」週一表示，已開始向主要零售商和藥房運送這款名為Opill的藥物。根據公司建議的零售價格，1個月的用量將花費約20美元，3個月的用量將花費約50美元。該藥物也將在線上出售。
+Opill是一種較舊的避孕藥類別，有時被稱為小劑量避孕藥，它只含有一種合成荷爾蒙黃體酮，副作用通常比流行的複合雌激素和黃體酮避孕藥更小。"
+34,ground_truth,"以下是一篇英文內容，請幫我翻譯成中文：
+Male office workers at a telecoms firm in Tokyo have experienced simulated menstrual pain to help them become more sympathetic toward female colleagues ahead of International Women’s Day on Friday.
+""I couldn’t move. It hurt to the point where I couldn’t stand,"" said 26-year-old Masaya Shibasaki after using the device jointly developed by researchers at Nara Women’s University and startup Osaka Heat Cool.
+""I now understand women have to work while fighting this pain every month. It’s actually amazing how women can do that. I really respect them,"" Shibasaki said.
+Companies in Japan are legally required to allow women to take menstrual leave. However, there is no requirement for the time off to be paid and surveys showed around half of female workers never take it.","位於東京的一家電信企業男員工在國際婦女節前體驗了模擬經痛，讓他們能對女同事更富有同情心。
+26歲員工柴崎雅也在使用由奈良女子大學與新創公司Osaka Heat Cool聯合研發的器材後表示，「我動不了，疼痛的程度讓我無法動彈」。
+他說，「現在我明白女性每個月都得在工作的同時對抗這種疼痛。她們要如何辦到著實讓人感到驚嘆。我確實尊敬她們」。
+日本法律要求企業給予女性生理假。然而，卻沒有要求休假時給付薪資。民調顯示約半數女性職員從未請過生理假。"
+35,ground_truth,"幫我把下列英文文章翻譯成中文：
+Argentina is preparing to offer larger denomination peso bills in an attempt to simplify daily transactions that require some in the country to carry backpacks stuffed with cash.
+The central bank said it approved the production of 10,000-peso and 20,000-peso notes and would make them available by June.
+Currently, the largest denomination in circulation is a 2,000 peso note — and even those are rare and highly sought after.
+Larger denomination notes will help to ease issues created by soaring prices, with official figures released earlier showing the annual inflation rate hitting 211.4% in December.","阿根廷正準備提供較大面額披索紙幣，以圖簡化日常交易；有些民眾得背著塞了現金的背包，來進行這些日常交易。
+中央銀行說該署已經批准印製面額1萬披索和2萬披索的紙鈔，會在6月發行流通。
+目前流通的最大面額紙鈔是2000披索，但就連2000面額的都很少見，很受歡迎。
+較大面額紙鈔將有助於減緩物價上漲造成的一些問題，日前公佈的官方數據顯示，12月年通膨率達到211.4％。"
+36,ground_truth,"我需要一個中文的翻譯：
+A wave of thefts of bonsai miniature potted trees across Japan appear tied to an overseas boom that offers high profits from resale, according to experts.
+In many cases, thieves made off with expensive plants in the dead of night.
+Mitsunori Imai, 60, who operates the Warabi-en bonsai garden here in Kanuma, Tochigi Prefecture, was left speechless after he found many bonsai trees missing from his shelves on the morning of Dec. 12.
+“My mind went blank because of the shock,” he said.","根據專家，一波盆景失竊潮席捲日本各地，顯然與轉售利潤高的海外盆栽熱潮有關。
+在許多情況下，小偷會在深夜偷走昂貴盆景植物。
+60歲的今井光典在（日本）?木縣鹿沼市經營盆栽園「和樂美園」，他在（2023年）12月12日早上發現架上許多盆景樹不翼而飛後，（震驚到）說不出話來。
+「我震驚到腦子一片空白，」他說。"
+37,ground_truth,"請將這段文字翻譯成中文：
+Elon Musk has launched a legal case against OpenAI, the AI firm he helped to set up in 2015, accusing its leaders of a ""betrayal"" of its founding mission.
+The tycoon, who left OpenAI in 2018, argued in documents filed in a San Francisco court that the firm was always intended as a nonprofit entity.
+But he said recent boardroom changes meant OpenAI was now effectively a subsidiary of software giant Microsoft, arguing that this was breach of contract.
+Musk has accused Microsoft of controlling OpenAI several times, with both firms denying the claims. Antitrust regulators in the United States and Europe are also investigating the ties between the companies.
+OpenAI captured the imagination of people in late 2022 with the release of its chatbot ChatGPT, which can generate poems and essays and even succeed in exams.","馬斯克對其2015年協助成立的人工智慧（AI）公司OpenAI提出訴訟，指控該公司領導高層「背叛」其創立使命。
+這位在2018年離開OpenAI的大亨，在提交給舊金山法院的文件中指稱，該公司意圖永遠做為一家非營利實體。
+但他說，近期董事會的變動意味OpenAI現在實際上是軟體巨頭微軟的一家子公司，他宣稱這違反合約。
+馬斯克已數度指控微軟掌控OpenAI，這兩家公司否認該宣稱。美國與歐洲的反壟斷監管機關也正調查這兩家公司之間的關係。
+OpenAI在2022年底推出可以生成詩句、論文，甚至通過考試的聊天機器人ChatGPT，而引發人們的興趣。"
+38,ground_truth,"以下是一篇英文內容，請幫我翻譯成中文：
+A rare book gifted to Charles Darwin by Karl Marx in 1873, which may not have been read by its recipient, is returning to the English naturalist’s home for public display after undergoing conservation work.
+The founder of communism had sent the father of evolutionary theory a copy of ""Das Kapital"", his critical analysis of capitalism, personally inscribing on the opening page: ""on the part of his sincere admirer, Karl Marx"".
+The book will now return to Down House, from where Darwin worked on his revolutionary theory of evolution by natural selection, after five years away during which the tome underwent specialist conservation work by Cambridge University Library to prevent further deterioration of the delicate copy.
+In his reply to Marx, Darwin wrote that he wished he was more worthy of the ""honour"" of receiving ""Das Kapital"", by understanding the subject better.","由卡爾．馬克斯在1873年致贈給查爾斯．達爾文的一本稀有書籍，或許從未被這位收禮人翻閱過。如今在經過保存工作後送返這名英國自然主義者的家中公開展覽。
+共產主義創立者送給進化論之父的「資本論」，是馬克斯對資本主義的批判分析之作。他在首頁親筆寫下「由真誠的仰慕者卡爾．馬克斯所作」。
+這部巨著在由劍橋大學圖書館進行五年的專業保存工作，避免脆弱的文本狀態進一步惡化後送回達爾文的故居，他在此潛心建立了以天擇形塑的革命性進化理論。
+達爾文給馬克斯的回覆寫道，希望透過自己能更好理解「資本論」的主題，來對得起獲贈的榮幸。"
+39,ground_truth,"幫我把下列英文文章翻譯成中文：
+Read all about it, right now — or you’ll have to wait another four years. Satirical French newspaper La Bougie du Sapeur only comes out on Feb. 29.
+It’s a leap year-only publication, filled with cringe-worthy puns and commentary on events of the past four years.
+The 2024 edition includes an article suggesting France doesn’t need schools anymore thanks to artificial intelligence. Another floats the idea of dismantling the Eiffel Tower during the Paris Olympics to reduce security risks － and having IKEA produce a manual for rebuilding it.
+Some friends started the newspaper as a joke in 1980, naming it after a comic book figure who was born on Feb. 29. The last edition — in 2020, as the world went into COVID-19 lockdowns — sold 120,000 copies.
+When the world goes out of whack, reads its once-in-four-years editorial, ‘‘Sometimes you have to laugh about it.’’","現在趕快讀——否則你將得再等4年。挖苦人的法國《工兵蠟燭報》只在2月29日出版。
+這是一份閏年限定的出版物，充滿了令人尷尬的雙關語及對過去4年事件的評論。
+2024年版包含一篇暗示法國多虧人工智慧而不再需要學校的文章。另一篇提議在巴黎奧運期間拆除艾菲爾鐵塔以降低安全風險——並讓宜家家居製作重建指南。
+一些朋友1980年創辦這份報紙當作一場玩笑，以2月29日出生的一個漫畫人物命名。上一版——2020年，當時全球正因武漢肺炎限制行動——賣了12萬份。
+當世界失控，它4年1次的社論寫道，「有時你得一笑置之。」"
+40,ground_truth,"我需要一個中文的翻譯：
+Kaine is a big, buoyant dog looking for a home. But lately, he’s spending a lot of time at the office.
+Animal shelters around the U.S. are bursting at the seams amid the rising cost of living, so the gray and white 7-year-old has been staying in a worker’s office at the Mohawk Hudson Humane Society while awaiting adoption.
+The number of animals entering shelters began to climb in 2021, after a pandemic-related dip. Adoptions haven’t kept pace with the influx of pets — especially larger dogs like Kaine — creating a snowballing population problem for many shelters.","活潑大狗「凱恩」正在尋找一個家，但牠最近大多待在（動物收容所的）辦公室。
+由於生活成本持續上漲，美國各地的動物收容所已「寵」滿為患，所以這隻7歲大的灰白色狗「凱恩」在等待被領養期間，一直住在（美國紐約州梅南茲的）莫霍克哈德遜人道協會的工作人員的辦公室。
+進入收容所的動物數量一度因武漢肺炎疫情大流行而下降，之後在2021年開始攀升，但寵物被領養的速度並未跟上寵物大量湧入收容所的步伐－－特別是像凱恩這樣的大狗－－對許多收容所造成日益嚴重的收容數量的問題。
+"
+41,ground_truth,"幫我把下列英文文章翻譯成中文：
+Women officially joined a so-called ""naked festival"" at a shrine in central Japan for the first time in the event’s 1,250 year history, donning purple robes and chanting excitedly as they bore a large bamboo trunk as an offering.
+Seven groups of women took part in the ritual which is said to drive away evil spirits and where participants pray for happiness. Despite its name, those taking part are not naked.
+Many women wore ""Happi Coats"" (robes that reach to the hips) and shorts that are typically worn at Japanese festivals, although men just wore loincloths similar to those worn by sumo wrestlers.
+""I heard that women could participate so I definitely wanted to take part to help bring excitement to this town and festival,"" said 59-year-old civil servant Emi Tachibana, one of the participants.","在日本中部一座神社舉行的所謂「裸祭」，身穿紫色長袍、興奮地高喊口號的女性們，扛起當作祭品的大竹子，這是首次有女性參與這場1250年歷史的活動。
+7組女性團體參加這場據稱可以除厄及祈福的儀式。儘管被稱為「裸祭」，但參加者並未赤身裸體。
+許多女性穿著日本慶典活動上常穿的「法被」（長度覆蓋臀部的罩袍）和短褲，而男性只穿著類似於相撲選手所穿的纏腰布。
+參加者之一、59歲公務員立花惠美（音譯）表示：「我聽說女性可以參加，所以我絕對想參加，為這個小鎮和節慶帶來活力。」"
+42,ground_truth,"以下提供英文文章，請幫我翻譯成中文：
+Francoise Bettencourt Meyers became the first woman to amass a $100 billion fortune, marking another milestone for the heiress and for France’s expanding fashion and cosmetics industries.
+Her wealth jumped to $100.1 billion on Thursday, according to the Bloomberg Billionaires Index. She’s the 12th-richest person in the world.
+Bettencourt Meyers’ fortune is still significantly less than that of French compatriot Bernard Arnault, founder of luxury goods purveyor LVMH Moet Hennessy Louis Vuitton SE, who is second in the global ranking with $179 billion.
+France’s growing domination of luxury retail has spawned several other ultra-rich families, including the clan behind Hermes International SCA, who have amassed Europe’s largest family fortune, and the Wertheimer brothers who own Chanel.","方斯華‧貝登古—麥爾斯成為第一個累積1000億美元財富的女性，對這名女繼承人及法國愈加擴張的流行與美妝產業來說，是又一個里程碑。
+根據「彭博億萬富翁指數」，她的財產週四躍升到1001億美元，在世界上最有錢人當中排名第12。
+貝登古—麥爾斯的財富仍然顯著少於法國同胞、奢侈品供應商酩悅軒尼詩—路易威登集團創辦人貝爾納‧阿爾諾，他以1790億美元財富，在全球排名第2。
+法國奢侈品零售業日益居主導地位，已經造就其他數個超級富豪家族，包括「愛馬仕國際」背後的家族，以及擁有「香奈兒」品牌的韋特海默兄弟。"
+43,ground_truth,"以下是一篇英文內容，請幫我翻譯成中文：
+The first human patient implanted with a brain-chip from Neuralink appears to have fully recovered and is able to control a computer mouse using their thoughts, the startup’s founder Elon Musk said late on Monday.
+""Progress is good, and the patient seems to have made a full recovery, with no ill effects that we are aware of. Patient is able to move a mouse around the screen by just thinking,"" Musk said in a Spaces event on social media platform X.
+Musk said Neuralink was now trying to get as many mouse button clicks as possible from the patient.
+The firm successfully implanted a chip on its first human patient last month, after receiving approval for human trial recruitment in September.
+The study uses a robot to surgically place a brain-computer interface implant in a region of the brain that controls the intention to move, Neuralink has said, adding that the initial goal is to enable people to control a computer cursor or keyboard using their thoughts.","首位接受Neuralink腦晶片植入的人類病患似已完全康復，並能夠用思想控制電腦滑鼠，該新創公司創辦人馬斯克週一晚間表示。
+「進展良好，病患似乎已完全康復，我們並未察覺到任何不良影響。病患能夠僅憑思考就在螢幕上移動滑鼠」，馬斯克在社群媒體平台X的「空間」活動中說。
+馬斯克表示，Neuralink現在正在嘗試讓病患儘可能多地點擊滑鼠按鈕。
+該公司在去年9月獲得人體試驗招募許可後，上個月成功地為其首位人類病患植入一顆晶片。
+Neuralink表示，這項研究使用機器人透過手術，將腦機介面植入物放置在大腦中控制移動意圖的區域，並補充說，最初的目標是讓人們能?用自己的思想控制電腦游標或鍵盤。"
+44,ground_truth,"幫我把下列英文文章翻譯成中文：
+A traditional ceremony for children is catching on among pet owners in Japan, where dogs and cats are receiving ever more attention amid the nation’s plummeting birth rates.
+Natsuki Aoki took her two Chihuahuas on a plane ride to Tokyo from the western city of Hiroshima so her fur babies could get a special blessing.
+The Zama Shrine, which dates back to the 6th century and lies about 35 kilometres southwest of Tokyo, established a specific prayer site for pets in 2012. It now hosts Shichi-Go-San rituals where pet parents can pray for the health and happiness of their animals.
+The rite is traditionally celebrated in mid-November for children reaching the age of 3, 5 and 7. Parents dress their girls and boys in kimonos and bring them to a Shinto holy place for the ceremony.","由於日本出生率急遽下降的緣故，一項兒童傳統儀式正在寵物主人之間蔚為流行，狗狗和貓咪受到愈來愈多的關注。
+青木夏希（譯音）帶著她的兩隻吉娃娃，搭飛機從日本西部的廣島飛往東京，好讓她的毛小孩接受特別的祝福。
+位於東京西南方約35公里處、歷史可追溯至西元6世紀的座間神社，在2012年為寵物建立一個專門的祈福?場所。現在，該神社會舉辦七五三儀式，讓寵物的主人們可以為寵物祈禱牠們的健康和幸福。
+這個儀式傳統上是在11月中旬為年滿3歲、5歲、7歲的孩子慶祝。父母會替男孩和女孩穿上和服，並帶他們到神道教聖地參加儀式。"
+45,ground_truth,"請翻譯成中文：
+The organizers of the first protest against Argentine President Javier Milei’s government will have to cough up tens of thousands of dollars to cover the cost of security forces deployed to the demonstration, the government’s spokesman said Friday.
+Thousands turned out for the march to oppose Milei’s austerity measures and commemorate the deadly 2001 protests that followed the country’s economic meltdown.
+Spokesman Manuel Adorni said a heavy deployment of police, paramilitary officers and anti-riot forces, cost 60 million pesos.
+""The bill will be sent to the social movements"" who will ""bear the responsibility of the cost which should not fall on citizens.""","第一場針對阿根廷總統哈維爾‧米雷伊政府的示威活動主辦者，將得掏出數萬美元，負擔為這場示威部署安全部隊的費用，政府發言人週五說。
+數千人參加這場遊行反對米雷伊的撙節措施，並且紀念2001年該國經濟崩潰後引發導致人命喪失的示威。
+政府發言人曼紐爾‧阿多尼說，大幅部署警力、武裝員警和鎮暴部隊，耗費6000萬披索。
+「這筆帳單將送到這場社會運動（主辦者）」，他們將「負責承擔這筆費用，不應該落在公民身上」。"
+46,ground_truth,"幫我把下列英文文章翻譯成中文：
+Nearly half of the world’s migratory species are in decline, according to a new United Nations report.
+Many songbirds, sea turtles, whales, sharks and other migratory animals move to different environments with changing seasons and are imperiled by habitat loss, illegal hunting and fishing, pollution and climate change.
+About 44% of migratory species worldwide are declining in population, the report found. More than a fifth of the nearly 1,200 species monitored by the U.N. are threatened with extinction.
+“These are species that move around the globe. They move to feed and breed and also need stopover sites along the way,” said Kelly Malsch, lead author of the report. Habitat loss or other threats at any point in their journey can lead to dwindling populations.","全球近半數遷徙物種正減少，根據聯合國一份新報告說。
+許多鳴禽、海龜、鯨魚、鯊魚與其他遷徙動物隨著季節變化遷移至不同環境，受到棲地流失、非法狩獵、捕撈、污染與氣候變遷的威脅。
+報告發現，全球約44％的遷徙性物種數量正在減少。在聯合國監測的近1200個物種中，超過5分之1面臨滅絕威脅。
+「這些物種在全球遷移，牠們為覓食、繁殖遷移，沿途也需要中途停留的據點」，報告主要作者凱莉‧麥爾許說。旅程中任何時間點的棲地流失或其他威脅可能導致族群數量萎縮。"
+47,ground_truth,"以下是一篇英文內容，請幫我翻譯成中文：
+Extreme wind and rain may lead to bigger and worse desert locust outbreaks, with human-caused climate change likely to intensify the weather patterns and cause higher outbreak risks, a new study has found.
+The desert locust — a short-horned species found in some dry areas of northern and eastern Africa, the Middle East, and South Asia — is a migratory insect that travels in swarms of millions over long distances and damages crops, causing famine and food insecurity. A square kilometer swarm comprises 80 million locusts that can in one day consume food crops enough to feed 35,000 people.
+The study, published in Science Advances on Wednesday, said these outbreaks will be “increasingly hard to prevent and control” in a warming climate.","極端的風和雨可能導致更大、更嚴重的沙漠蝗災，而人為造成的氣候變遷，可能會加劇這種天氣模式，並增加蝗災爆發的風險，一項新研究發現。
+沙漠蝗蟲是一種短角物種，分佈在非洲北部和東部、中東和南亞的一些乾旱地區，是一種遷徙性的昆蟲，以數百萬隻的群體遷徙長距離，破壞農作物，造成饑荒和糧食不安全。1平方公里的蝗群包含8000萬隻蝗蟲，1天可以消耗足夠養活3.5萬人的糧食作物。
+這項研究週三發表於《科學進展》期刊，指出在氣候變暖的情況下，這些蝗災將「越來越難以預防和控制」。"
+48,ground_truth,"幫我把下列英文文章翻譯成中文：
+A restaurant in the US is charging some of its customers for their inability to control their children while they dine there.
+Hidden away at the bottom of its menu, the Toccoa Riverside Restaurant tells its diners of its ""adult surcharge,"" and adds: ""No respect, no service.""
+Kyle Landmann left a review online, and said: ""The owner came out and told me he was adding $50 to my bill because of my children’s behaviour. ""My kids watched a tablet until the food arrived, ate their food and my wife took them outside while I waited and paid the bill.""
+His wife, Lyndsey Landmann said :""The kids were being so good. I even commented halfway through the meal: ""I can’t believe how well-behaved they are.""
+Mrs Landmann claimed the owner said their children were ""being too loud"" and ""running around outside"".","美國一家餐廳向部分顧客收取費用，原因是他們在內用期間無法控制自己的孩子。
+隱藏在托科亞河畔餐廳菜單底部的一行字，告訴內用的客人這項「成人附加費」，並補充說：「沒有尊重，就沒有服務。」
+凱爾‧蘭德曼在網路上留下評論，說：「老闆出面告訴我，由於我孩子的行為，他要在我的帳單上增加50美元。」「在餐點送來以前，我的孩子在看平板，用完餐後，我的妻子把他們帶到外面，而我等著結帳。」
+他的妻子琳賽‧蘭德曼說：「孩子們表現良好。我吃到一半甚至說道，『不敢相信他們表現這麼好』。」
+蘭德曼太太表示，老闆說他們的孩子「太大聲」，並且「在外面跑來跑去」。"
+49,ground_truth,"請翻譯成中文：
+Hundreds of tons of dead sardines washed up on a beach in northern Japan, prompting speculation a school of fish was suddenly deprived of oxygen for some reason.
+A silver blanket of dead fish covered a roughly 1.5-kilometer stretch of shoreline around Toi fishing port in southern Hakodate on the northernmost main island of Hokkaido.
+Officials estimated that at least 1,000 tons of mostly sardines but some mackerel washed ashore Dec. 7 but made clear the figure could be higher.
+City authorities, along with the Oshima Regional Promotion Bureau of the Hokkaido prefectural government, will work local fishermen from Dec. 9 to begin cleaning up the area and disposing of the dead fish.","數以百噸計的死沙丁魚被沖上日本北部1處海灘，引發魚群可能因某種原因突然缺氧的猜測。
+（日本）最北主島北海道的南部城市函館的戶井漁港附近，約1.5公里的海岸線被覆蓋上一層銀色死魚。
+官員估計，（2023年）12月7日有至少1000噸（死魚）被沖上岸，主要是沙丁魚，但也有若干鯖魚，但（官員）也明示，（被沖上岸的死魚）數量可能會更高。
+（函館）市政府及北海道道廳的渡島綜合振興局，將從（2023年）12月9日起，與當地漁民一起開始清理該地與處理死魚。"
+50,ground_truth,"幫我把下列英文文章翻譯成中文：
+The price of uranium reached the highest level for almost 17 years on Friday, driven by constrained supply and accelerating demand, against a backdrop of renewed interest in nuclear power.
+The benchmark contract for uranium oxide which, once enriched, is used as nuclear fuel, rose to $85.75 a pound for the first time since January 2007.
+This price rise is the result of a combination of factors, notably the rebound in demand due to renewed interest in nuclear power.
+The higher prices will cause headaches for countries that rely heavily on nuclear energy, such as France, which generated almost 70 percent of its electricity from nuclear power in 2021, according to the US Energy Information Administration. ","在重新對核能發電有興趣的背景下，供應吃緊和需求加速，推動鈾價週五觸及幾乎17年來的最高點。
+濃縮後可做為核燃料的氧化鈾，基準合約價自從2007年1月以來首次上漲到1磅85.75美元。
+這波價格上漲是綜合諸多因素的結果，尤其是由於對核能發電重燃興趣而反彈的需求量。
+價格上漲將令重度仰賴核能的國家頭痛，例如法國，根據美國能源情報署資料，2021年法國電力70％來自核能發電。"
+51,ground_truth,"我需要一個中文的翻譯：
+The main organizer of E3, a long-running videogame trade show, on Tuesday said the event will no longer take place, ending a 20-year run.
+""After more than two decades of serving as a central showcase for the US and global video game industry, ESA has decided to end E3,"" said Stanley Pierre-Louis, President and CEO of the Entertainment Software Association.
+""ESA’s focus and priority remain advocating for ESA member companies and the industry workforce who fuel positive cultural and economic impact every day,"" he added.
+The Washington-based ESA had sponsored the big gathering annually since 1995. At its height, the show was a major launchpad for new releases from the biggest video gaming players.","長年舉辦的電子遊戲貿易展覽會「電子娛樂展」主要主辦者週二說，將不再舉行這項展覽，結束持續20年的歷史。
+娛樂軟體協會總裁兼執行長史丹利‧皮耶—路易說，「做為美國和全球電玩產業的一個重要展示場合20多年後，娛樂軟體協會已決定停辦電子娛樂展。」
+「娛樂軟體協會的焦點和優先事項，依舊是為ESA會員企業和每天都在促進正面娛樂與經濟影響力的這個產業工作者發聲」，他接著說。
+設於華盛頓的娛樂軟體協會自1995年起贊助這項年度盛大聚會。這項展覽的極盛時期是最大幾家電玩遊戲商發表新產品的重要平台。"
+52,ground_truth,"幫我把下列英文文章翻譯成中文：
+Germany will send six helicopters to Ukraine out of Germany’s military inventory to be delivered from the second quarter of this year, its defence minister Boris Pistorius announced on Tuesday, the first delivery of its kind from Germany.
+The helicopters, called ""Sea King"" helicopters, should help Ukraine with everything from surveillance of the Black Sea to transporting soldiers, Pistorius said.
+The minister was speaking at a meeting of the Ukraine Defence Contact Group, where over 50 states and organisations plan capabilities on Ukraine’s frontline. Germany and France have led the coalition for air defence together since November.
+""For the protection of the Ukrainian people and infrastructure, air defence continues to be the number 1 priority. We also need more speed with arms production,"" Pistorius said.","德國國防部長皮斯托瑞斯週二宣布，德國將從今年第2季度開始，向烏克蘭交付德國軍事庫存中的6架直升機，這是德國首次交付此類直升機。
+皮斯托瑞斯說，這些被稱為「海王」的直升機，應該能幫助烏克蘭完成從黑海監視到運送士兵的一切任務。
+這位部長是在烏克蘭國防聯絡小組的一次會議上發表講話，該小組有50多個國家和組織策劃在烏克蘭前線部署能力。自去年11月以來，德國和法國共同領導這個防空聯盟。
+皮斯托瑞斯說：「為了保護烏克蘭人民和基礎設施，防空仍是首要任務。我們還需要加快武器生產。」"
+53,ground_truth,"請將這段英文翻譯成中文：
+Train enthusiast Joe Biden unveiled a $8.2 billion plan to get America’s creaking rail network back on track, including its first ever high-speed link between Los Angeles and Las Vegas.
+The US president, who used the train between his Delaware home and Washington so much as a US senator that he was nicknamed ""Amtrak Joe,"" visited Las Vegas to announce a series of federally funded rail upgrades.
+Biden’s administration hopes to complete the Vegas-to-LA rail link by 2028. ""You have no idea how much this pleases me,"" Biden said.
+The plan would ""put our nation back on track with the fastest, safest and greenest railways in the world."" ","火車愛好者喬‧拜登公布一份82億美元的計畫，要讓美國老舊的鐵路網重新上軌道，其中包括連結洛杉磯和拉斯維加斯的該國第一條高速鐵路。
+這名在美國參議員任內搭火車往來德拉瓦住家和華府次數多到被暱稱為「美鐵喬」的美國總統，造訪拉斯維加斯，宣布一系列聯邦政府出資的鐵路升級工程。
+拜登政府希望在2028年前，完成拉斯維加斯與洛城之間的鐵路線。「你們不知道此事讓我多高興」，拜登說。
+這項方案會「以這個世界上最快、最安全和最環保的鐵路，把我們國家帶回正軌」。"
+54,ground_truth,"以下是一篇英文內容，請幫我翻譯成中文：
+South Korea’s parliament passed a bill to ban the eating and selling of dog meat, a move that will end the controversial centuries-old practice amid growing support for animal welfare.
+Eating dog meat was once seen as a way to improve stamina in the humid Korean summer. But the practise has become rare - largely limited to some older people and specific restaurants - as more Koreans consider dogs as family pets and as criticism of how the dogs are slaughtered has grown.
+Support for the ban has grown under President Yoon Suk Yeol, an animal lover who owns six dogs and eight cats with first lady Kim Keon Hee, also a vocal critic of dog meat consumption.
+Pet ownership has also climbed over the years. One in four Korean households owned a pet dog in 2022, up from 16% in 2010, government data shows.","南韓國會通過法案，禁止食用與販賣狗肉，在對動物福利的支持與日俱增下，此舉將終結數世紀之久的爭議性慣行。
+在溼熱的韓國夏季，吃狗肉一度被視為補精益氣的方式。然而，此慣行已變得罕見—主要限於一些年長者，及特定餐廳—因為愈來愈多韓國人將狗視為家庭寵物，而對狗屠宰方式的批評也增多。
+在總統尹錫悅執政下，對該禁令的支持上升，他是動物愛好人士，與第一夫人金建希擁有6隻狗與8隻貓。她也是一名對食用狗肉直言不諱的批評者。
+多年來寵物飼主的人數也攀升。政府數據顯示，2022年每4個韓國家庭中就有1個擁有寵物，從2010年的16％上升。"
+55,ground_truth,"幫我把下列英文文章翻譯成中文：
+Pope Francis called Monday for a universal ban on what he called the “despicable” practice of surrogate motherhood, as he included the “commercialization” of pregnancy in an annual speech listing threats to global peace and human dignity.
+Francis listed smaller-scale issues that he said were threats to peace and human dignity, including surrogacy. He said the life of the unborn child must be protected and not “suppressed or turned into an object of trafficking.”
+“I consider despicable the practice of so-called surrogate motherhood, which represents a grave violation of the dignity of the woman and the child, based on the exploitation of situations of the mother’s material needs,” he said.
+Saying a child is a gift and “never the basis of a commercial contract,” he called for a global ban on surrogacy “to prohibit this practice universally.”","教宗方濟各週一呼籲全球禁止他所說的代孕母親的「卑鄙」作法，他在一次年度演講中列出對全球和平與人類尊嚴的威脅，並將懷孕「商業化」納入其中。
+方濟各列出一些小規模的問題，他說這些問題威脅到和平和人類尊嚴，包括代孕。他說，必須保護未出生嬰兒的生命，而不是「被壓制或變成販賣的對象。」
+他說：「我認為所謂代孕母親的做法是卑鄙的，嚴重侵犯婦女和兒童的尊嚴，是基於對母親物質需求的剝削。」
+他說，孩子是一份禮物，「絕不是商業合約的基礎」。他呼籲全球禁止代孕，「普遍禁止這種作法」。"
+56,ground_truth,"幫我把下列英文文章翻譯成中文：
+Taylor Swift fans, commonly known as ’Swifties’, are spurring massive air travel demand in Europe as they follow their idol’s ’Eras’ tour between May and August, Spanish online travel booking company eDreams ODIGEO said on Tuesday.
+Demand for flights to Stockholm around May 17-19, when the star is due to perform, jumped six-fold from the same period a year ago, eDreams said, while demand to fly to Warsaw, Edinburgh, Liverpool and Paris in the days around Swift’s concerts jumped 339%, 176%, 133% and 108%, respectively.
+The Barcelona-based firm said transatlantic demand was rising the most, suggesting strong interest from American Swifties in the European performances.
+This unusual pattern reflects Taylor Swift’s influence on the music scene and her substantial economic impact, which had already been observed and measured in the United States.","西班牙網路旅遊公司eDreams ODIGEO表示，通常被稱為「Swifties」的泰勒絲粉絲們，在追隨偶像5至8月「時代巡演」的同時，大幅推升了歐洲的空中旅遊需求。
+eDreams指出，泰勒絲預計5月17至19日在斯德哥爾摩演出期間，航班需求量比去年同期跳升6倍；華沙、愛丁堡、利物浦和巴黎的航班需求在泰勒絲演唱會前後，分別上升339％、176％、133％和108％。
+這間位於巴塞隆納的公司提到，跨大西洋的航班需求上升幅度最甚，顯示出美國泰勒絲粉絲對歐洲演出的強烈興趣。
+這種不尋常的模式反映出泰勒絲在音樂領域的影響力，以及對經濟產生的巨大衝擊力。這類現象已在美國受到研究和觀測。"
+57,ground_truth,"以下提供英文文章，請幫我翻譯成中文：
+Bottomless mimosa brunches may draw restaurant customers, but the sparkling wine and orange juice cocktails come with an obvious downside: patrons who overindulge and get sick. That’s why some establishments are now tacking on ""vomit fees"" for customers who throw up on the premises.
+One of those spots is the Oakland, California-based Kitchen Story, which has posted a sign that warns mimosa drinkers that they will be assessed a $50 cleaning fee if they throw up in the restaurant, according to CBS station KRON in San Francisco.
+Another San Francisco-area restaurant, Home Plate, also warns brunch aficionados that they will face a $50 fee for ""any incident [incurred] as a result of intoxication.""","含羞草雞尾酒可無限暢飲的早午餐，也許能幫餐廳吸客，但這款由氣泡酒與橙汁混合而成的雞尾酒，有1項明顯缺點：客人會喝過頭與不舒服。因此，有些餐廳業者現在對在該店範圍內嘔吐的客人，加收「嘔吐費」。
+根據（美國）舊金山哥倫比亞廣播公司的KRON電視台，加州奧克蘭的「廚房故事」就是這類（加收嘔吐費的）餐廳之一，該店貼出告示，警告飲用含羞草雞尾酒的客人，若在餐廳內嘔吐，將被收取50美元的清潔費。
+另一家舊金山地區的餐廳「本壘板」，也警告早午餐鐵粉，（他們若有）「任何因醉酒而（招致）的事件」，將被收取50美元費用。"
+58,ground_truth,"幫我把下列英文文章翻譯成中文：
+City lawmakers in Brazil have enacted what appears to be the nation’s first legislation written entirely by artificial intelligence — even if they didn’t know it at the time.
+The experimental ordinance was passed in October in the southern city of Porto Alegre and city councilman Ramiro Rosario revealed that it was written by a chatbot.
+Rosario told The Associated Press that he asked chatbot ChatGPT to craft a proposal to prevent the city from charging taxpayers to replace water consumption meters if they are stolen.
+He then presented it to his 35 peers on the council without making a single change or even letting them know about its unprecedented origin.
+“If I had revealed it before, the proposal certainly wouldn’t even have been taken to a vote,"" Rosario said.","巴西的市議員通過實施顯然是該國第一部完全用人工智慧寫出來的法案—即使他們當時不知情。
+這份實驗性法令10月在南部快樂港市通過，市議員拉米洛‧羅薩里歐披露，該法令是用聊天機器人寫出來的。
+羅薩里歐向美聯社說，他要求聊天機器人ChatGPT擬出一份提案，防止市府向因為水錶被偷而須換錶的納稅人收費。
+然後他把這份提案提交給市議會35名同僚，內容一字不改，甚至沒讓他們知道這份提案史無前例的來源。
+「如果我事先揭露，這份提案肯定甚至不會交付表決」，羅薩里歐說。"
+59,ground_truth,"以下是一篇英文內容，請幫我翻譯成中文：
+There’s a bit of post-Christmas cheer on the menu for elephants and other tenants at the Berlin Zoo: they can chomp on Christmas trees that didn’t find a home.
+The tree treats were unwrapped Thursday in what has become an annual event. Elephants tore off branches with their trunks and either gobbled them or tossed them around their enclosure.
+The European bison nestled into the trees before starting to munch on them. And reindeer sniffed and played with the conifers.
+The zoo takes only fresh, unsold trees from select vendors. It doesn’t accept trees from the public, which could contain chemicals or leftover decorations. ","柏林動物園的大象和其他房客菜單上，有一些耶誕節後的歡呼聲：牠們可以咀嚼沒有找到家的耶誕樹。
+週四，耶誕樹上的點心被拆開包裝，這已成為一年一度的活動。大象用鼻子扯下樹枝，要麼狼吞虎嚥，要麼扔到圍欄周圍。
+歐洲野牛依偎著些樹木，然後開始啃食，馴鹿則嗅著這種針葉樹，嬉戲玩耍。
+動物園只從選定的供應商購買新鮮的、未售出的樹木，不接受公眾提供的樹木，這些樹木可能含有化學物質，或剩餘的裝飾品。"
+60,ground_truth,"幫我把下列英文文章翻譯成中文：
+A Georgia dentist earned a Guinness World Records title for his collection of 2037 different toothpaste tubes.
+Dr. Val Kolpakov said his collection includes rare toothpastes from countries including Japan, Korea, China, India and Russia.
+""I started my collection in 2001 to learn more as a dentist about all available toothpastes on the market,"" said Kolpakov. ""Soon I realized that this is a very interesting hobby.""
+Kolpakov said some of the most unusual tubes displayed at his dental practice’s ""mini museum"" include a trio of whiskey-flavored tubes in rye, scotch and bourbon varieties. He said the novelty toothpastes, manufactured by Don Poynter in the 1950s, contain 3% alcohol.
+Other unusual entries include a tube of Doramad toothpaste containing the radioactive compound thorium.","喬治亞州一名牙醫因收藏2037支各式各樣的牙膏管，創下金氏世界紀錄。
+瓦爾‧科爾帕科夫醫師表示，他的藏品包括來自日本、南韓、中國、印度和俄羅斯等國的稀有牙膏。
+科爾帕科夫說：「身為一名牙醫，我從2001年開始蒐集牙膏，以便進一步了解市面上所有可用的牙膏。我很快意識到這是一個趣味十足的嗜好。」
+科爾帕科夫說，他在牙科診所的「迷你博物館」中展示的一些最不尋常的牙膏，包括黑麥、蘇格蘭和波本等3種威士忌口味的牙膏。他說，這些新穎的牙膏由唐．波因特在1950年代生產，成份中含有3％的酒精。
+其他不尋常藏品包括一支含有放射性化合物釷的Doramad牙膏。"
+61,ground_truth,"我需要一個中文的翻譯：
+ghouse after causing more than a quarter-million dollars’ worth of damage at a Houston car dealership.
+One dog, described as a bull terrier mix, was captured in early December, and the second, whose breed was not known, was caught Dec. 31. Both dogs are being held by the Houston animal shelter, BARC.
+The dogs were captured on surveillance video scratching the paint and tearing the bumpers off of vehicles in the lot at G Motors, according to the dealership’s finance manager, Imran Haq. They caused an estimated $350,000 in damage.
+""(I) just want all my customers to know that everything is taken cared of, and you know, we feel for these dogs,"" Haq said. “They are in good hands, so we don’t have to worry about them right now. They can be adopted.”","一對流浪狗在造成一家休士頓汽車經銷商價值逾25萬美元的損失後，已落腳動物收容所。
+一隻被描述為混種鬥牛犬的狗狗，在（去年）12月初被捕，第二隻狗於12月31日被捕，其品種不得而知。這兩隻狗被休士頓動物收容所BARC收容。
+監視器畫面顯示，這兩隻狗在G Motors的停車場，刮花汽車，並撕扯保險桿，這家經銷商財務經理伊姆蘭‧哈克說。牠們造成估計35萬美元的損失。
+「我只想讓所有客戶知道，一切都會被負責處理，而且你知道，我們同情這些狗」，哈克說。「牠們獲得妥善照料，所以我們現在不必擔心牠們。牠們可能被領養。」"
+62,ground_truth,"幫我把下列英文文章翻譯成中文：
+Three trafficked Sumatran orangutans were sent back from Thailand to Indonesia on Thursday as part of a joint effort between the countries to tackle the illegal wildlife trade.
+Nobita and Shizuka, both 7 years old, and Brian, 5 years old, had been living at a wildlife sanctuary in the western Thai province of Ratchaburi. After the repatriation, there are no more trafficked orangutans currently under the care of Thai authorities, officials said.
+The orangutans were transported from the sanctuary to Bangkok’s Suvarnabhumi International Airport before being put on a plane to Jakarta. Thai officials said Indonesia covers the cost for transportation and the animals’ health examinations.
+Thai and Indonesian officials fed the animals bananas and dragon fruit while they were being displayed inside their crates at the Bangkok airport before they were taken onto the plane.","週四，3隻被販運的蘇門答臘紅毛猩猩從泰國被送回印尼，這是兩國共同努力打擊非法野生動物貿易的一環。
+7歲的大雄和靜香，以及5歲的布萊恩，一直住在泰國西部叻武里府一個野生動物保護區。官員稱，遣返後，目前泰國當局不再監管任何被販運的猩猩。
+這些紅毛猩猩被從保護區運送到曼谷蘇凡納布國際機場，然後被送上飛往雅加達的飛機。泰國官員說，印尼承擔運輸和動物健康檢查的費用。
+泰國和印尼官員在這些動物被帶上飛機之前，在曼谷機場將牠們展示在板條箱內，並餵牠們吃香蕉和火龍果。"
+63,ground_truth,"請將這段文字翻譯成中文：
+Gone are the days when a laborious search by hand is required to locate a missing item at the lost and found office.
+In May, Tokyo-based private railroad operator Keio Corp. introduced a service that relies on artificial intelligence to sort things out quickly.
+Kyushu Railway Co. (JR Kyushu), based in Fukuoka, followed suit by starting to provide a similar service in August.
+Claimants simply need a smartphone to make an inquiry.
+First, they need to enter a description of the lost article, including any defining features, along with a photo, and date and place of loss, via an official account of the lost property search service on the Line free messaging app.
+The AI system taps into a database to compare the inputted information and selects candidate articles that best match the description.","得在失物招領處用手費盡找出遺失物的日子，已成為往事。
+（2023年）5月，總部位於（日本）東京的私鐵業者京王，推出仰賴人工智慧來快速挑選出東西的服務。
+總部位於福岡的九州旅客鐵道公司（JR九州）依樣畫葫蘆，8月開始提供類似服務。
+失主只需要1支智慧型手機，即可查詢（遺失物）。
+首先，失主得在免費通訊應用程式Line的失物搜尋服務官方帳號，輸入有關遺失物的描述，包括任何明確特徵，以及（附上）1張照片、遺失日期與地點。
+人工智慧系統利用資料庫來比對（失主）輸入的資料，挑出與（失主的）描述最匹配的備選失物。"
+64,ground_truth,"幫我把下列英文文章翻譯成中文：
+New York state sued PepsiCo on Wednesday, pointing to the soda giant’s plastic waste as a scourge of waterways and blasting the company’s ""misleading"" statements on the environment.
+The civil suit, filed by New York Attorney General Letitia James in New York state Supreme Court, seeks a finding that PepsiCo contributed to a ""public nuisance"" in the Buffalo River; the imposition of financial penalties and compensatory damages on the company; and an order that PepsiCo cease the sale of single-use plastic on goods that do not warn of the environmental ills.
+A survey by James’ office found that PepsiCo’s plastic packaging was by far the greatest source of Buffalo River plastic pollution. The plastics ""cause wide-ranging harms to the public and New York State,"" said the suit.","紐約州週三起訴百事公司，指這家飲料大廠製造的塑膠垃圾，是水道的大患，並抨擊該公司在環境方面發表「誤導性的」聲明。
+這項由紐約州檢察長詹樂霞向州最高法院提起的民事訴訟，尋求就百事公司對水牛河造成「公害」做出裁決，對該公司處以罰款和補償性損害賠償金，並下令百事停止銷售未警示環境傷害的拋棄式塑膠包裝產品。
+詹樂霞辦公室進行的調查發現，百事公司的塑膠包裝是目前為止水牛河塑膠污染的最大來源。訴訟指出，這些塑膠「對民眾和紐約州造成廣泛的傷害」。"
+65,ground_truth,"以下是一篇英文內容，請幫我翻譯成中文：
+Two private companies announced Friday a partnership to release mosquitoes across the Caribbean bred with a bacterium that blocks the dengue virus as the region fights a record number of cases.
+Orbit Services Partners Inc., a company registered in Barbados, is partnering with Verily, a San Francisco-based health technology company, for the project. Similar projects using the Wolbachia bacterium already have been implemented elsewhere in the world.
+Mosquitoes are infected with Wolbachia in a laboratory and then released into the wild, where they pass it on to their offspring. The bacterium prevents the dengue virus from replicating inside a mosquito’s gut.
+The Caribbean, along with the Americas, has reported more than 4 million dengue cases so far this year, the highest number since record-keeping began in 1980.","在加勒比地區登革熱病例創下新高之際，兩家私人公司週五宣布建立合作關係，在整個加勒比地區釋放用一種能阻斷登革熱病毒之細菌所培育的蚊子。
+在巴貝多註冊的Orbit Services Partners股份有限公司，將與總部位於舊金山的健康科技公司Verily合作開展該計畫。使用沃巴赫氏菌（Wolbachia）的類似計畫，已經在世界其他地方實施。
+蚊子在實驗室中感染沃巴赫氏菌，然後釋放到野外，在那裡牠們將其傳給後代。這種細菌可以防止登革熱病毒在蚊子腸道內複製。
+今年到目前為止，加勒比地區和美洲地區報告超過400萬例登革熱病例，這是自1980年開始記錄以來的最高數字。"
+66,ground_truth,"幫我把下列英文文章翻譯成中文：
+South Korean smartphone giant Samsung Electronics will roll out a real-time translation service on calls using AI technology next year, a company representative told AFP on Friday.
+The new real-time translation feature will be incorporated into Samsung’s new Galaxy flagship model, which will launch early next year, the representative said.
+It will enable ""real-time translation in audio and text as the callers are on the line"", the spokesman said.
+The translation will be enabled even if a call partner uses a non-Samsung smartphone, as the new model will use ""on-device AI technology"".","南韓智慧手機巨擘三星電子公司，明年將推出利用人工智慧技術在通話中即時翻譯服務，該公司一名代表週五向法新社說。
+這名代表說，這項新的即時翻譯功能，將整合到三星明年初將發表的新Galaxy旗艦機型。
+它將能讓「通話者在通話中即時翻譯語音和文字」，這名發言人說。
+就算通話方使用非三星智慧手機，這項功能也能發揮作用，因為該款新機型將使用「裝置端人工智慧技術」。"
+67,ground_truth,"請將這段英文翻譯成中文：
+The Dutch government announced Friday it is preparing to give 18 F-16 fighter jets to Ukraine, in a boost for the embattled nation that is growing increasingly anxious about aid from its Western allies.
+The Dutch defense minister, Kajsa Ollongren, sent a letter to parliament outlining the plan to donate the sophisticated jets that was first unveiled in the summer.
+Friday’s decision is a significant step toward sending the planes into the skies over Ukraine, but did not say when they will be delivered.
+The government said the move “allows personnel and budget to be allocated to prepare the devices” to be sent to Ukraine.","荷蘭政府週五宣布，準備向烏克蘭提供18架F-16戰機，這對這個四面楚歌的國家來說是一個鼓舞，因為這個國家愈來愈擔心西方盟友的援助。
+荷蘭國防部長歐龍仁致函國會，概述今年夏天首次宣布的捐贈先進戰機計畫。
+週五的?定是朝著將這些飛機送入烏克蘭上空邁出的重要一步，但沒有說明何時交付。
+（荷蘭）政府表示，此舉「允許分配人員和預算來準備這些設備」，以便送往烏克蘭。"
+68,ground_truth,"我需要一個中文的翻譯：
+""The Moonwalkers: A Journey With Tom Hanks"" looks at the first moon landings of the Apollo missions from 1969 to 1972 and their successor, NASA’s human spaceflight program, Artemis.
+""...Men and women are going to go back...very soon and isn’t it wonderful that we have the curiosity and the drive in order to do something for which there is no rewarded riches, there’s no territory that is going to be conquered,"" Hanks said. ""The only thing that we are going to get is proof that...we can not only imagine the impossible, we can make the impossible possible.”
+Asked if he wanted to go to space himself, he said: “If they need somebody to go up and just keep the windows clean and serve the food and clean up afterwards, I’d be their man.""
+""There’s something about the experience. I think you need time. I know people can go up and they can come down and that’s a wonderful thing and that’s great. But I think I need a little bit more time up there to ponder the infinite universe.”","「月球漫遊者：與湯姆．漢克的旅程」聚焦1969至1972年首次登陸月球的阿波羅計畫及其後繼者，NASA的人類太空飛行任務「阿提米絲」。
+漢克說，「…男男女女們…很快就會回到月球。這不是很奇妙嗎，我們有著好奇心和驅動力去做某些沒有豐厚回報的事情。那裡沒有領土要去征服」。漢克說：「我們所得到的只是證明…我們不僅能想像不可能，還能將不可能化為可能」。
+被問到是否想要親自登上太空？他說，「如果他們需要人上去把窗子擦亮，幫忙端食物然後收拾善後，那麼我樂意之至」。
+「這樣的經驗有某種意涵。我想你需要時間。我知道人們能夠升空後接著返回，那是很美好的一件事，那很棒。但我想我需要在上頭多一些時間來思考這無限的宇宙」。"
+69,ground_truth,"以下是一篇英文內容，請幫我翻譯成中文：
+Since leftist Gustavo Petro took office in Colombia last August, his presidential plane has criss-crossed the globe collecting archaeological artifacts in foreign hands, and bringing them home.
+The effort, also aided by the naval flagship Gloria, has seen at least 560 pre-Columbian relics returned from countries such as the United States, Spain, Britain, Belgium, Germany and Mexico, according to the government.
+In just over a year, the presidential jet has taken Petro on more than 30 official trips abroad that have returned with artifacts － an exercise the government has described as ""an efficient use of resources.""","自從左派古斯塔夫‧裴卓去年8月在哥倫比亞上任，他的總統專機已經穿梭全球，取回在外國手中的古文物，把它們帶回家。
+根據政府說法，這項也獲得海軍旗艦「榮耀號」協助的努力，已經讓至少560件前哥倫布時期遺物，從美國、西班牙、英國、比利時、德國和墨西哥等國返回。
+僅僅1年多的時間，這架總統專用噴射機就載著裴卓，進行30多趟外國公務旅行，帶著文物回來，政府形容這種作法是「有效運用資源」。"
+70,ground_truth,"以下提供英文文章，請幫我翻譯成中文：
+The Louvre art museum in Paris will hike its basic entrance fee next year by 29%, adding to concerns that visitors coming to Paris for next year’s Olympic Games will face spiralling costs.
+The Louvre, which houses the Mona Lisa and is the world’s most visited museum, said in a statement on Friday that its entrance fee would go up in January to 22 euros from 17 euros. It is the first price hike since 2017.
+It did not mention the Olympics. However, the Louvre’s price increase is set to coincide with other rising costs in Paris as the city prepares to host the Olympics.
+Paris metro ticket prices will almost double during the Olympic Games, which start on July 26 next year.","位於巴黎的羅浮宮將在明年調升基本入館費29％，增添了遊客在明年來巴黎參加奧運會之際花費竄升的擔憂。
+收藏有「蒙娜麗莎」的羅浮宮是全世界遊客數最高的博物館。官方聲明宣布，入館費會在明年一月從17歐元調漲至22歐元。是自2017年以來首次調漲票價。
+官方沒有提及奧運。然而，在準備主辦奧運之際，羅浮宮門票與其它在巴黎的開銷同步上漲。
+明年7月26日登場的奧運期間，巴黎的地鐵票價將幾乎翻倍。"
+71,ground_truth,"幫我把下列英文文章翻譯成中文：
+For the first time in 44 years, Japan Broadcasting Corp.’s (NHK) New Year’s Eve singing contest will not include any performers from the scandal-hit former Johnny & Associates Inc. talent agency.
+The public broadcaster announced the lineup on Nov. 13 of the 44 groups and performers invited to perform in the annual “NHK Kohaku Uta Gassen”.
+But entertainers from the former Johnny’s were left out in the aftermath of the fallout from the sex abuse scandal involving its late founder, Johnny Kitagawa.
+Since 1980, performers from the talent agency have participated in the nationally televised singing competition every year.","日本放送協會（NHK）的除夕歌唱競賽節目44年來首度沒有任何1名來自醜聞纏身的前傑尼斯經紀公司的藝人（出席）。
+該公共廣播公司11月13日宣布受邀出席年度「NHK紅白歌合戰」的44組團體與藝人的名單。
+但受到涉及其已故創辦人強尼．喜多川的性虐待醜聞的影響，前傑尼斯經紀公司的藝人被排除在外。
+自1980年起，來自該經紀公司的藝人每年都會參加這個全國播放的電視歌唱競賽節目。"
+72,ground_truth,"幫我把下列英文文章翻譯成中文：
+The owner of X Elon Musk predicted the future with AI would be an ""age of abundance"" with a ""universal high income"" instead of a universal basic income but warned of ""humanoid robots"" that might chase humans.
+The SpaceX and Tesla CEO said there would come a point when ""no job is needed"". Jobs instead would be just for those who wanted one for ""personal satisfaction"".
+AI was like ""a magic genie"" that gives you any wishes you want, Musk added, quipping however that those fairy tales rarely end well.
+Musk cautioned that ""we should be quite concerned"" about humanoid robots that can follow you anywhere.
+""If a robot can follow you anywhere, what if they get a software update one day, and they’re not so friendly any more?""","X公司所有人伊隆‧馬斯克預言，擁有人工智慧的未來會是「富足的年代」，人們「普遍高收入」而非普遍是基本收入，但警告可能會有「類人機器人」追著人類跑。
+這名太空探索科技公司和特斯拉公司執行長說，未來會發展到「不需要工作」，工作只是提供「個人滿足感」。
+馬斯克接著說，人工智慧就像「神燈精靈」可實現你的願望，不過他詼諧地說，那些童話故事很少有美好的結局。
+馬斯克提醒，「我們應該要相當擔心」能隨時隨地跟著你的類人機器人。
+「如果機器人能到處都跟著你，如果有一天軟體升級，變得不再這麼友善，該怎麼辦？」"
+73,ground_truth,"以下是一篇英文內容，請幫我翻譯成中文：
+After years earning bumper profits by producing parts for fossil fuel-powered cars, German suppliers to the crucial auto industry are struggling as the transition to electric mobility gathers pace.
+While Germany is well known as the home of titans like Volkswagen, Mercedes and BMW, there are also hundreds of other companies in the country that form part of the sprawling auto sector.
+But as the industry speeds towards an electric future, specialised suppliers in Europe’s top economy are struggling to keep up, experts warn.
+German suppliers have lost nearly three percentage points of global market share since 2019, according to a study by consultancy Strategy&, part of the PwC network. ","德國的關鍵汽車產業供應商，經過多年來透過生產用於化石燃料動力汽車的零件，盈收獲利大豐收，現在因轉型到電動汽車的腳步加速，正在苦苦掙扎。
+雖然德國以福斯、賓士和BMW等汽車巨擘故鄉著稱，但德國也有數百家其他公司，形成這個龐大汽車產業的一環。
+然而，隨著這個產業加速邁向電動化的未來，這個歐洲最大經濟體的專業化供應商正苦於跟上腳步，專家警告。
+根據資誠（PwC）聯盟旗下顧問公司Strategy&的資料，自2019年以來，德國供應商已經流失將近3個百分點的全球市佔率。"
+74,ground_truth,"請將這段英文翻譯成中文：
+Chinese group tours are back in Japan but anyone banking on them arriving in droves and splashing around cash like they did before the pandemic is likely to be disappointed.
+Hopes the return of packaged tours will herald big returns for department stores, hotels and restaurants in Japan are clashing with a Chinese economy struggling to post significant growth and Japan’s controversial plans to release treated wastewater from the wrecked Fukushima nuclear plant into the sea.
+“Chinese consumer sentiment is cooler than ever, and the desire to save is increasing,” said Sony Financial Group economist Takayuki Miyajima.
+Isetan Mitsukoshi is expecting less “explosive buying” at its department stores now that many high-end brands are available within China, a spokesperson said.","中國旅遊團重返日本，但任何指望他們像疫情前那般蜂擁而至並揮霍現金的人，可能要失望了。
+旅遊團重返將預示日本的百貨公司、飯店與餐廳會有巨額收益的希望，但這與中國經濟難有大幅成長，以及日本將受災的福島核電廠處理過的廢水排入大海此一爭議性計畫，相抵觸。
+「中國的消費者信心比以往更低迷，而儲蓄渴望則漸增，」索尼金融集團經濟學家宮?貴之如是說。
+（日本百貨集團）三越伊勢丹的一名發言人說，由於許多高檔品牌在中國也能買到，該集團預計（中客在）其店內「爆買」的情況會比較少。"
+75,ground_truth,"幫我把下列英文文章翻譯成中文：
+A portrait of William Shakespeare and a copy of a speech from ""A Midsummer Night’s Dream"" were sent to the edge of space as part of a short film series marking 400 years since the first volume of the playwright’s works was published.
+Shakespeare’s First Folio was compiled by his friends and published on Nov. 8, 1623, seven years after his death. Some 750 copies are believed to have been printed, containing 36 of the 37 plays Shakespeare wrote, arranged for the first time as comedies, tragedies and histories.
+To mark the anniversary, filmmaker Jack Jewers made six short films addressing contemporary themes including space exploration, the impact of the COVID pandemic and the war in Ukraine using six of Shakespeare’s speeches and poems.
+The First Folio is considered one of the most important books in English literature. Without it, 18 plays, including ""Macbeth"", would have been lost.","一幅莎士比亞肖像和擷取自「仲夏夜之夢」的對白被送上太空邊界，作為紀念首本作品集出版400年所拍攝的一系列短片中的一環。
+莎士比亞的「第一對開本」在其過世7年後由友人於1623年11月8日編纂出版，據信印製約750本，涵蓋莎士比亞37部作品中的36部，也是第一次以喜劇、悲劇和歷史劇分類。
+為了週年紀念，導演傑克．朱爾斯使用6段莎士比亞的對白和詩句，拍攝6部講述當代議題的短片，包含太空探索、新冠疫情衝擊和烏俄戰爭。
+第一對開本被視為是英文文學史上最重要的書本之一，若無此書，包含「馬克白」等18部作品將會佚失。"
+76,ground_truth,"幫我把下列英文文章翻譯成中文：
+Italy’s government has earmarked 2.9 million euros to tackle the spread of a particularly aggressive crab species that is threatening the country’s role as one of the world’s top producers of clams.
+The ""blue crab"", originating from the western Atlantic, has spread across several lagoon-like locations in Italy, preying on local shellfish, fish roe and other aquatic life, to despair of the clams aquafarm industry.
+Experts say it is unclear why they are now multiplying with such speed or whether there could be a link to climate change.
+According to a draft seen by Reuters, the 2.9 million euros will be given to fishing cooperatives and aquafarmers who are trying to curb blue crab numbers with a large-scale fishing campaign.","義大利政府已撥款290億歐元，準備應對一種特別具有攻擊性的螃蟹物種的蔓延，這種螃蟹正在威脅該國身為全球最大蛤類生產國之一的地位。
+這種來自西大西洋的「藍蟹」已遍布義大利多個像是潟湖的地點，捕食當地貝類、魚卵和其他水生生物，令蛤蜊養殖業感到絕望。
+專家說，目前尚不清楚牠們為何以如此快的速度繁衍，也不清楚是否與氣候變遷有關。
+根據《路透》看到的政府草案，這290萬歐元將提供給試圖透過大規模捕撈活動，來遏制藍蟹數量的漁業合作社和水產養殖業者。"
+77,ground_truth,"請翻譯成中文：
+Germany plans to extend the electricity and gas price caps it introduced last year until March 2024, a source told Reuters on Friday.
+Berlin last year introduced a 200-billion-euro relief package to help companies and households shoulder soaring electricity and gas bills following Russia’s invasion of Ukraine and a drop in Russian gas exports.
+The government, however, plans to abolish a sales tax cut for gas and district heating it introduced as part of last year’s relief measures at the beginning of 2024, the source said, amid more stabilized prices and a tighter federal budget.","一名消息人士週五告訴路透，德國計畫將去年實施的電力和天然氣價格上限，延長到2024年3月。
+柏林去年實施一份2000億歐元的紓困方案，協助企業和家庭負擔因為俄羅斯侵略烏克蘭和減少天然氣出口而上漲的電價和天然氣費用。
+然而，在價格已較為穩定以及聯邦預算更為緊縮之際，德國政府打算從2024年初起，廢除去年紓困措施中的天然氣和區域供暖銷售稅減稅措施，這名消息人士說。"
+78,ground_truth,"幫我把下列英文文章翻譯成中文：
+A new shot for infants against RSV is in short supply, and U.S. health officials told doctors they should prioritize giving the drug to babies at the highest risk of severe disease.
+Infants less than 6 months who have chronic lung disease or other underlying conditions should be given priority, the Centers for Disease Control and Prevention told doctors in a Monday evening advisory.
+RSV, or respiratory syncytial virus, is a common cause of coldlike symptoms that can be dangerous for young children. A seasonal virus, it’s being widely reported in the southern United States and is expected to continue to spread over the next month or two.
+The new, one-time shot is a lab-made antibody that helps the immune system fight off the virus. Sold under the brand name Beyfortus, the drug was developed by AstraZeneca and Sanofi. ","一種針對嬰兒呼吸道融合病毒（RSV）的新疫苗供應短缺，美國衛生官員告訴醫生，他們應該優先給患嚴重疾病風險最高的嬰兒注射這種藥物。
+美國疾病管制暨預防中心在週一晚間的一份通知中告訴醫生，患有慢性肺病或其他潛在病症的6個月以下嬰兒，應該優先接種。
+RSV，或稱「呼吸道融合病毒」，是引起類感冒症狀的常見原因，對幼兒來說可能很危險。做為一種季節性病毒，它在美國南部被廣泛通報，預計將在未來1至2個月內繼續傳播。
+這種新的一次性疫苗是一種實驗室製造的抗體，可幫助免疫系統抵抗病毒。這種藥物的品牌名稱是「Beyfortus」，由阿斯特捷利康和賽諾菲開發。"
+79,ground_truth,"我需要一個中文的翻譯：
+The Egyptian Theatre, a historic movie house that hosted Hollywood’s first film premiere a century ago, will re-open to the public this week after a multi-million-dollar restoration by Netflix.
+The company that pioneered watching movies at home stepped in three years ago to refurbish one of the most famous theaters in Los Angeles. Built during the silent film era, the Egyptian rolled out Hollywood’s first red carpet for the premiere of ""Robin Hood"" starring Douglas Fairbanks in 1922.
+Netflix said it spent $70 million to restore the theater, preserving its original Egyptian Revival design in the courtyard and inside the building while adding updated sound and projection equipment.
+""If you had seen the theater over the last couple of years before we were able to get in and do this work, you’d see it was showing every bit of its 100 years,"" Netflix Co-CEO Ted Sarandos said in an interview. ""To be able to bring it back, and it’s a beautiful movie house, is just an incredible point of pride for us.""","一個世紀以前舉辦好萊塢首場電影首映的歷史級影院埃及劇院，在網飛出資數千萬美元整修後將重新對公眾開放。
+開拓居家觀影的網飛在三年前接手整修這間洛杉磯最有名的劇院之一。埃及劇院是在默片時代所建，在1922年為道格拉斯．費爾班克斯主演的「羅賓漢」首映張開首張好萊塢紅毯。
+網飛表示，整修劇院花費7000萬美元，在庭院和內部保存了原始的埃及復興風格設計，同時對音效和放映設備進行升級。
+網飛共同執行長泰德．薩蘭多斯在訪問中表示，「如果你在我們入主、動工的數年前見過這間劇院，那麼這100年來的每個細節都會呈現在你眼前」、「能夠讓這間美麗的電影院回歸，對我們來說是極大的驕傲」。"
+80,ground_truth,"幫我把下列英文文章翻譯成中文：
+A California company parlayed its water recycling expertise into the creation of a beer made from a San Francisco residential building’s wastewater.
+Water treatment company Epic Cleantec teamed with Devil’s Canyon Brewing Co. to create Epic OneWater Brew, a K?lsch-style ale made using recycled water from showers, sinks and washing machines in Fifteen Fifty, a 40-story luxury apartment building.
+The beer is not currently for sale due to regulations banning recycled wastewater from being used in commercial beverages, but it proved to be a big hit at a conference on sustainable building technologies.
+""We ended up producing just over 7,000 cans, not as a commercial product, but as an educational effort,"" said Aaron Tartakovsky, CEO and co-founder of Epic Cleantec.","加利福尼亞州一家企業利用其水資源回收專業知識，將舊金山一棟住宅大樓的廢水生產成啤酒。
+水處理公司Epic Cleantec與釀酒廠Devil’s Canyon合作，利用40層奢華公寓大樓「1550」的浴室、洗手台和洗衣機的回收水，釀造出一種名為Epic OneWater Brew的科隆麥芽啤酒。
+這款啤酒目前並未販售，因為法規禁止回收的廢水被用於製造商業飲料，但事實證明，它在一場有關永續建築技術的會議上大受歡迎。
+Epic Cleantec執行長兼共同創辦人艾倫‧塔爾塔科夫斯基說：「我們最終生產7000多罐，不是當成商業產品，而是一種教育努力。」"
+81,ground_truth,"我需要一個中文的翻譯：
+Christmas Tree Shops will liquidate all of its stores and go out of business unless a white knight comes out of the woodwork at the 11th hour.
+The discount retail chain, which sold a variety of home goods, disclosed in a court filing last week that it defaulted on a $45 million loan and is closing its roughly 70 stores in the coming weeks.
+The closure comes after it filed for Chapter 11 bankruptcy in May in a bid to turn around the 53-year-old company.
+However, its sales continued to decline and Christmas Tree Shops ran out of the money it needed to go forward with the bankruptcy plan. Late last week, the company decided to permanently close its business instead.","除非在最後一刻突然出現救星，「耶誕樹商店」將關閉其所有門市與結束營業。
+一份法庭文件上週披露，這家販售各種家用品的折扣零售連鎖店，拖欠4500萬美元貸款，將在未來數週內關閉其約70家門市。
+在關閉所有門市之前的今年5月，該公司曾根據美國破產法第11章申請破產，企圖翻轉這家有53年歷史的公司的命運。
+然而，該公司業績持續下滑，「耶誕樹商店」耗盡推展破產計劃所需的資金。上週稍晚，該公司決定永久停業。"
+82,ground_truth,"以下提供英文文章，請幫我翻譯成中文：
+On a recent vacation in Tokyo, Takumi Yamamoto opted for a special lunch of cricket curry and silkworm sashimi, washed down with a water bug cider.
+The 26-year-old office worker, from the western prefecture of Hyogo, is one of scores of consumers across the world who have taken an interest in entomophagy, or eating insects, as bugs slowly become a more viable food source.
+As a child, Yamamoto said he sometimes snacked on soy-sauce basted grasshoppers. In Tokyo, he indulged in insect cuisine at Take-Noko cafe, which embraces all things buggy.
+""It’s fun to select from a wider variety of dishes,"" Yamamoto said at the cozy second-floor cafe, surrounded by insect art and terrariums of skittering beetles, ants and cockroaches.","最近到東京度假時，山本拓海（音譯）選擇吃一頓與眾不同的午餐，點了蟋蟀咖哩和蠶生魚片，配著水蟲蘋果酒一起下肚。
+隨著昆蟲慢慢成為較可行的食物來源，這名來自日本西部兵庫縣的26歲辦公室職員，是對吃昆蟲感興趣的全球廣大消費者之一。
+山本說，他幼年有時會吃沾上醬油的蚱蜢當點心。來到東京後，他愛上Take-Noko咖啡廳的昆蟲美食，與昆蟲有關的東西在那應有盡有。
+山本在舒適的咖啡廳二樓說：「從更多種類的菜餚中挑選很有趣。」這家咖啡廳四周都是昆蟲藝術品，還有飼養著飛舞的甲蟲、螞蟻和蟑螂的飼養箱。"
+83,ground_truth,"幫我把下列英文文章翻譯成中文：
+Amazon will soon make prescription drugs fall from the sky when the e-commerce giant becomes the latest company to test drone deliveries for medications.
+The company said Wednesday that customers in College Station, Texas, can now get prescriptions delivered by a drone within an hour of placing their order.
+The drone, programed to fly from a delivery center with a secure pharmacy, will travel to the customer’s address, descend to a height of about four meters — or 13 feet — and drop a padded package.
+Amazon says customers will be able to choose from more than 500 medications, a list that includes common treatments for conditions like the flu or pneumonia, but not controlled substances.","亞馬遜很快就會讓處方藥從天而降，這家電子商務巨頭將成為最新一家測試無人機送藥的公司。
+該公司週三表示，德州「學院站」的顧客現在可以在下單後1小時內，收到無人機送達的處方藥。
+這架無人機按照程式設定，從一個有安全藥房的配送中心起飛，前往顧客的地址，下降到約4公尺（13英尺）的高度，並投下一個帶襯墊的包裹。
+亞馬遜表示，顧客可以從500多種藥物中進行選擇，其中包括治療流感或肺炎等疾病的常用藥物，但不包括管制藥物。"
+84,ground_truth,"幫我把下列英文文章翻譯成中文：
+Professor Lo Chung-mau, the health minister of HK, said someone who lit up in areas where it is prohibited would be unlikely to ""hit back"" if everyone stared at them.
+""When the members of the public see people smoking in non-smoking areas, even if no law enforcement officers can show up immediately, we can stare at the smokers,"" Professor Lo told a meeting of the Legislative Council’s health service panel.
+""For example, when someone takes out a cigarette at a restaurant, everyone on the premises can stare at that person. I do not believe that person would dare to hit back at everyone as they are simply staring.""
+Professor Lo said the behavior would help to create a ""non-smoking culture"" in the city.""Take queuing at a bus stop as an example. No one will say it requires the law to compel people to queue.""","香港醫務衛生局局長盧寵茂教授說，在禁止吸菸的地方點菸的人，只要所有人都瞪著他，他就不太可能「反擊」。
+盧教授在立法會衛生事務委員會會議中說：「當民眾看到有人在非吸菸區吸菸時，即使執法人員未能立即到場，我們也能瞪著吸菸者。」
+「例如，有人在餐廳拿出香菸的話，在場所有人可以一起瞪著那個人。我不相信那個人敢反抗，因為大家只是瞪著他而已。」
+盧教授說，這種行為有助於在香港創造「不吸菸文化」。「以在公車站排隊為例，沒有人會說需要立法來促使人們排隊。」"
+85,ground_truth,"請翻譯成中文：
+U.S. regulators on Tuesday authorized another option for fall COVID-19 vaccination, updated shots made by Novavax.
+Updated vaccines from Pfizer and Moderna began rolling out last month, intended for adults and children as young as age 6 months. Now the Food and Drug Administration has added another choice – reformulated Novavax shots open to anyone age 12 and older.
+The Centers for Disease Control and Prevention already has urged most Americans to get a fall COVID-19 vaccination, shots tweaked to protect against a newer coronavirus strain. Novavax said shots will be available “in the coming days.” ","美國監管機構週二批准秋季接種COVID-19疫苗的另一種選擇，即諾瓦瓦克斯公司生產的更新版疫苗。
+輝瑞和莫德納公司的更新版疫苗已於上月開始推出，適用於成人和6個月大的嬰兒。現在，美國食品暨藥物管理局又增加一個選擇：重新配製的Novavax疫苗，開放12歲及以上的任何人施打。
+美國疾病管制暨預防中心已敦促大多數美國人在秋季接種COVID-19疫苗，這種疫苗經過調整，可預防較新的冠狀病毒株。諾瓦瓦克斯表示，將在「未來幾天內」提供疫苗。"
+86,ground_truth,"我需要一個中文的翻譯：
+Ottawa on Friday spelled out how a new law requiring digital giants to pay publishers for news content will work in practice, including how much it could cost Meta and Google.
+The government estimated it could cost the two companies a combined Can$230 million by requiring them to make fair commercial deals with Canadian outlets for the news and information that is shared on their platforms, or face binding arbitration.
+Meta reacted by calling the bill ""fundamentally flawed"" and vowed to continue blocking access in Canada to news articles on its Facebook and Instagram platforms. ","渥太華週五訂出一項要求數位巨擘向新聞內容發行商付費的新法律實施細則，包括元宇宙和Google公司可能要支付多少費用。
+此法案要求這兩家公司針對在其平台上分享的新聞，與加國新聞和資訊機構訂出公平的商業協議，否則將面臨具約束力的仲裁，加國政府估計，這兩家公司可能因此合計要付出2億3000萬加幣。
+元宇宙則回應指該法案「從根本上有瑕疵」，矢言持續在加國封殺在其臉書和Instagram平台上獲取新聞文章。"
+87,ground_truth,"幫我把下列英文文章翻譯成中文：
+Nadine, a social robot powered by Artificial Intelligence with human-like gestures and expressions, could have an important future role to play in tending to the sick and elderly, according to a professor who helped invent it.
+Nadia Magnenat Thalmann, a robot expert from the University of Geneva, who served as the model for Nadine’s dark brown eyes and auburn hair, said Nadine and robots like it could prove more effective than human carers.
+""Nadine has time 24 hours a day. The others have no time,"" Thalmann said.
+Global competition for nurses and carers is heating up, especially after COVID-19 and some countries are experiencing a staffing crisis in care homes which some think humanoid robots could one day ease.","由人工智慧驅動、有著與人類相似的手勢和表情的社交機器人Nadine，未來可能在照護病人和長輩上扮演重要角色，協助創造它的教授這麼說道。
+日內瓦大學機器人專家納蒂亞‧瑪格內納特‧塔爾曼，是Nadine深棕色眼眸和赭色髮絲的原型。她說，Nadine及其他類似的機器人可能會被證明比人類照護者更有用處。
+塔爾曼說：「Nadine全天候待命。其他人可沒這麼多時間。」
+全球護理師和照護者的搶人大賽日益激烈，尤其在新冠肺炎後，某些國家正經歷照護機構人力危機，而有人認為，類似人類的機器人有一天能舒緩這個狀況。"
+88,ground_truth,"我需要一個中文的翻譯：
+From ""Star Wars"" droid C-3PO’s head to Leonardo DiCaprio’s ""Titanic"" costume, a trove of costumes and props are headed to auction next month in a sale of film and television memorabilia worth around $14.6 million.
+""We have his complete archive from his time of working on the ’Star Wars’ films so that includes some of the props and body components and parts, his head, his hands, his feet,"" Propstore founder and Chief Executive Stephen Lane told Reuters.
+Costumes for sale include a shirt, waistcoat and trousers DiCaprio wore in ""Titanic"" , Honey Ryder’s bathrobe as worn by Ursula Andress in ""Dr. No"" and Johnny Depp’s stunt costume from ""Pirates of the Caribbean: On Stranger Tides"" .
+""The demand is growing and we’re seeing things travel all over the world...and they’re bought by passionate fans and lovers of the movies, collectors,"" Stephen Lane said. ""But some of these items also end up in museums and studio archives as well.""","從「星際大戰」機器人C-3PO的頭到李奧納多．狄卡皮歐在「鐵達尼號」中穿著的服裝，豐富的戲服和道具將在下個月一場價值達1460萬美元的電影、電視收藏品拍賣會中登場。
+Propstore創辦人兼執行長史蒂芬．連恩向路透表示，「我們有C-3PO在拍攝星際大戰時的完整素材，包括一些道具和身體部件、零件，他的頭盔、手臂和腳。」
+拍賣的戲服包括狄卡皮歐在鐵達尼號中穿著的襯衫、西裝背心和和褲子；烏蘇拉．安德絲在007電影「第七號情報員」穿著的浴袍；強尼．戴普在「神鬼奇航：幽靈海」的特技戲服。
+史蒂芬．連恩說，「需求持續成長，我們看著這些東西在全世界通行，由那些熱情粉絲、電影愛好者和收藏家所購買」、「但部分物品最後也進到了博物館和片場檔案室。」"
+89,ground_truth,"幫我把下列英文文章翻譯成中文：
+Dutch brewer Heineken on Friday announced it was pulling out of Russia after selling its operations to the Arnest Group, the largest Russian manufacturer of cosmetics, household goods and metal packaging.
+Like other major Western companies, Heineken pledged last year to quit Russia, but drew criticism earlier this year after a Dutch investigative website reported that it was continuing its Russian sales.
+The brewer said in a statement Friday that the sale had received all the necessary approvals and ""concludes the process Heineken initiated in March 2022 to exit Russia"". ","荷蘭啤酒釀造公司海尼根週五宣布，將俄羅斯業務出售給俄羅斯最大化妝品、居家用品和金屬包裝製造商Arnest集團後，撤離俄羅斯。
+就像其他主要西方企業，海尼根去年承諾退出俄國，但今年早些時候，荷蘭一個調查網站報告指該公司仍持續在俄國銷售，引發批評。
+這家釀酒公司週五在一份聲明中說，這筆出售案已獲得所有必要的批准，並且「完成了海尼根在2022年3月啟動的退出俄國程序」。"
+90,ground_truth,"請將這段英文翻譯成中文：
+The Tropicana Las Vegas, built in 1957, held the city’s longest-running cabaret and was synonymous with its swinging midcentury glory. It could be torn down to make way for a baseball stadium.
+It’s been decades since the heyday of the Tropicana. And Las Vegas, always evolving, is finally offering a form of entertainment found in other big American cities: major professional sports teams. Now the faded resort, one of the city’s oldest casinos, stands in the way.
+The governor of Nevada signed a bill agreeing to finance up to $380 million of the $1.5 billion stadium to lure the Oakland Athletics to a site on the Las Vegas Strip.","建於1957年的「賭城熱帶花園」酒店，曾是該市最長壽歌舞秀的獻藝地及其在20世紀中葉的璀璨輝煌的代名詞。該酒店可能會被拆掉，讓位給一座棒球場。
+「熱帶花園」的盛況已是數十年前的往事，而總是不斷進化的賭城終於要提供一種常見於其他美國大城的娛樂形式：職業運動聯盟球隊。而今這座已凋零兼該市最古老賭場之一的度假酒店，成為擋路石。
+內華達州州長已簽署一項法案，同意為這座造價15億美元的體育場提供高達3.8億美元的資金，以吸引奧克蘭運動家隊移師賭城大道。"
+91,ground_truth,"幫我把下列英文文章翻譯成中文：
+The United Auto Workers union wants to emerge from its strike against Detroit’s three major automakers with at least a 30% pay raise, according to people familiar with the matter.
+That’s the level — which is lower than the around 40% hike it initially proposed to Ford Motor Co., General Motors Co. and Stellantis NV — that the union believes will allow it to satisfy existing members and organize non-union plants.
+Automaker stocks were buoyed by the news. GM and Stellantis’ US shares each gained 2.5% on Thursday, while Ford rose 1.4%.
+A wage bump of at least 30% is expected to generate interest from non-unionized auto workers and help grow the union’s membership, according to the people.","根據熟悉此事的人說法，聯合汽車工會希望針對底特律3大汽車製造商的罷工行動，能獲得至少加薪30％的成果。
+工會相信，這個加薪幅度—低於該工會原本向福特汽車、通用汽車和斯特蘭蒂斯公司提出的約40％—能使其讓現有會員滿意，並且在無工會的工廠組織工會。
+汽車股股價受到這個消息激勵，通用和斯特蘭蒂斯股價週四各漲2.5％，福特漲1.4％。
+根據消息人士說法，加薪至少30％，預期能吸引未加入工會的汽車工人的興趣，協助增加工會人數。"
+92,ground_truth,"幫我把下列英文文章翻譯成中文：
+A Danish artist who was given a pile of cash by a museum in northern Denmark to create a piece for its exhibition on labor conditions two years ago submitted two empty canvases — titled “Take the Money and Run.” The exhibit caused a stir.
+A Danish court ruled last week that Jens Haaning has to repay 492,549 kroner to Kunsten Museum in Aalborg for having violated his contract. His lawyer said that the contemporary artist is appealing the ruling.
+The museum had commissioned Haaning in 2021 to recreate two of his earlier pieces featuring bank notes attached to canvases representing the average annual wage in Denmark and Austria.
+Instead, the artist sent the museum two empty frames entitled “Take the Money and Run,” saying he had created new, “better” pieces to fit the exhibition’s theme.","兩年前，一名收到丹麥北部一家博物館一筆現金，以為其勞動條件展創作一幅作品的丹麥藝術家，交出兩塊空白畫布—標題為「捲款跑路」。該展覽引起轟動。
+丹麥法院上週判決，詹斯‧哈寧因違反契約，必須償還奧爾堡現代藝術博物館49萬2549丹麥克朗。他的律師說，這位當代藝術家正對判決提出上訴。
+這家博物館2021年委託哈寧，重新創作他兩幅早前將鈔票貼在畫布上、代表丹麥與奧地利平均年薪的創作。
+這位藝術家反倒送交博物館兩個標題為「捲款跑路」的空白畫框，表示他創作了新的、「更好的」作品，以符合展覽主題。"
+93,ground_truth,"以下提供英文文章，請幫我翻譯成中文：
+In one of Keiko Kawano’s recent classes, more than a dozen Tokyo art school students held mirrors to their faces, stretching the sides of their mouths upward with their fingers: they were practising how to smile.
+It’s not something most people would think to pay for but Kawano’s services as a smile instructor are seeing a surge in demand in Japan.
+Kawano’s company Egaoiku has seen a more than four-fold jump in demand from last year, with customers ranging from companies seeking more approachable salespeople and local governments looking to improve their residents’ well-being. An hour-long one-on-one lesson costs 7,700 yen.
+""Culturally, a smile signifies that I’m not holding a gun and I’m not a threat to you,"" she said. With a surge in inbound tourists, Japanese people need to communicate with foreigners with more than just their eyes, she added.","在川野惠子最近的課堂上，東京藝術大學的10多名學生在面前舉起鏡子，並用手指把嘴角往上拉伸：他們正在練習如何微笑。
+這不是大多數人會考慮付費的課程，但身為微笑講師的川野所提供的內容，在日本的需求直線上升。
+川野的公司「笑顏育」去年以來業績跳升超過4倍，且客戶來源廣泛，有希望業務員更和藹可親的企業，也有希望改善居民健康的地方政府。1小時的1對1課程收費7700日圓。
+她說：「在文化上，露出微笑表示我沒有拿著槍，我不會為你帶來威脅。」隨著赴日旅客激增，日本人除了眼神交流外，還必須與外籍人士溝通。"
+94,ground_truth,"以下是一篇英文內容，請幫我翻譯成中文：
+North Korea said on Thursday Japan should immediately halt the release of wastewater from the wrecked Fukushima nuclear power plant, state media reported, hours after Japan began releasing treated water into the Pacific Ocean.
+In a statement carried by the KCNA news agency, North Korea’s foreign ministry criticised the release, calling it an ""unforgivable crime against humanity"" that Japan will be held accountable for.
+""Japan should immediately withdraw the dangerous release of radioactive wastewater which seriously threatens the lives, safety and the future of humanity,"" the statement said. ","週四在日本開始將福島核電廠廢水排入太平洋後數小時，北韓國營媒體報導，北韓說日本應該立即停止從這座毀損的核電廠排放廢水。
+在北韓中央通信社報導一份聲明中，北韓外交部批評排放核廢水是「不可原諒的違反人道罪行」，日本將會被追究責任。
+這份聲明說，「日本應該立即取消排放輻射廢水的危險之舉，此舉嚴重威脅人類生命、安全和未來」。"
+95,ground_truth,"幫我把下列英文文章翻譯成中文：
+Donald Trump is dominating the early stages of the Republican presidential primary even as he’s refused to endorse a federal ban on abortion, allowing some top rivals to get to the right of him on an issue that animates many conservative activists.
+Aiming to return to the White House, the former president often notes how his presidency advanced the cause of abortion opponents. He appointed three conservative Supreme Court justices who helped overturn Roe v. Wade, abolishing the federally guaranteed right to the procedure and fulfilling the decades-long aspirations of anti-abortion activists.
+But Trump has so far declined to go along with some of his rivals, most notably his onetime vice president, Mike Pence, who is pushing for national bans that would take effect relatively early into a pregnancy.","川普在共和黨總統初選的初期階段居主導地位，即使他拒絕支持聯邦禁止墮胎的規定，這也讓一些主要競爭對手，在這個鼓舞許多保守派行動者的問題上，站在他的對立面。
+為了重返白宮，這位前總統經常指出總統任期內如何推動反對墮胎者的事業，他任命3位保守派最高法院大法官，他們幫助推翻「羅訴韋德案」，廢除聯邦政府保障的墮胎權，並實現反墮胎行動者數十年來的願望。
+但川普迄今為止拒絕與他的一些競爭者立場一致，最著名的是他曾經的副總統彭斯，後者正在推動全國（墮胎）禁令，這些禁令將在相對較早的懷孕階段生效。"
+96,ground_truth,"請翻譯成中文：
+With displays ranging from tweed suits to an array of little black dresses, a new London exhibition looks at the work of one of fashion’s most famous names - French designer Gabrielle ""Coco"" Chanel.
+Opening at the V&A museum on Saturday, ""Gabrielle Chanel. Fashion Manifesto"" is the first British exhibition dedicated to the designer’s creations and longstanding influence on fashion.
+""One of the key influences that Gabrielle Chanel has had on the way we dress today is a sense of adaptability and practicality,"" Connie Karol Burks, curator of the department for textiles and fashion since 1900 at the museum, told Reuters.
+""She was constantly thinking about movement and being comfortable and being able to enjoy wearing your clothes.""","從展示斜紋軟呢套裝到一整列的巧緻黑色連衣裙，一場位於倫敦的新展覽把目光放在時尚界最知名人物之一的作品上-法國設計師嘉柏麗．「可可」．香奈兒。
+於維多利亞與艾伯特博物館開幕的「嘉柏麗．香奈兒 時尚宣言」，是首次在英國展現這位設計師的創作及對時尚歷久不衰的影響力。
+紡織與時尚部門館長康妮．卡羅爾．柏克斯表示，「嘉柏麗．香奈兒對我們今日穿著的其中一個關鍵影響，在於適應性和實用性的認知上。」
+「她不斷思考關於移動、舒適感和穿衣時的愉悅感等問題。」"
+97,ground_truth,"幫我把下列英文文章翻譯成中文：
+A lighthouse on Kaigarajima island, part of the disputed Northern Territories, has been lit for the first time in about nine years, the Japan Coast Guard confirmed on Aug. 26.
+A patrol boat sailing off Cape Nosappu in Nemuro saw a whitish light emanating from the lighthouse after sunset on Aug. 26, although the structure was not clearly visible due to fog at sea, the coast guard said.
+Kaigarajima island belongs to the Habomai group of islets off the coast of eastern Hokkaido.
+Soviet forces seized the Northern Territories at the end of World War II. Japan claims sovereignty over the islands, but they are controlled by Russia, including Kaigarajima island.
+Japan installed the lighthouse in 1937 for the safety of navigation in the area marked by fast currents and reefs.","日本海上保安部8月26日證實，位於有主權爭議的北方領土之一的貝殼島上的一座燈塔，在睽違約9年後首次點燈。
+該部表示，8月26日日落後，一艘在（北海道）根室的納沙布岬附近航行的巡邏艇，看到該燈塔發出灰白色的光芒，然因海上有霧，無法清楚看見該燈塔塔身。
+貝殼島屬於北海道東部海岸附近的齒舞群島。
+蘇聯部隊在二戰結束時佔領北方領土。日本雖聲稱仍擁有這些島嶼的主權，然其（實際上）由俄羅斯控制，包括貝殼島。
+日本在1937年設置這座燈塔，以確保在這個多急流與暗礁的區域的航行安全。"
+98,ground_truth,"以下是一篇英文內容，請幫我翻譯成中文：
+The Georgia Department of Driver Services issued an unusual reminder for residents taking advantage of the state’s new digital driver’s licenses and IDs: ""Please take pictures with your clothes on.""
+The department said in a Facebook post that residents are being asked to ensure they are ""keeping things classy"" when snapping selfies for their digital licenses and IDs, which allow Apple Wallet users to leave their physical copies in their wallet when passing through TSA checkpoints.
+""Attention, lovely people of the digital era,"" the post reads. ""Please take pictures with your clothes on when submitting them for your Digital Driver’s License and IDs.""
+""Let’s raise our virtual glasses and toast to the future,"" DDS officials wrote. ""Cheers to technology and keeping things classy!""","喬治亞州監理部門針對使用該州最新數位駕照及身分證的居民，發布一則異乎尋常的通知：「請在拍照時穿上衣服。」
+該部門在臉書文章中，要求居民在拍攝數位駕照和身分證的自拍照時務必「保持優雅」。數位駕照和身分證讓「蘋果錢包」用戶在通過美國運輸管理局安檢站時，可以不用把實體駕照和身分證從錢包拿出來。
+該文章寫道：「數位時代的可愛民眾請注意，麻煩穿上衣服自拍，再上傳成數位駕照和身分證。」
+監理部門官員寫道：「讓我們假裝舉杯敬未來，為科技乾杯，並保持優雅！」"
+99,ground_truth,"請將這段文字翻譯成中文：
+Kose Corp. unleashed an advertising campaign for a beauty serum from its Cosme Decorte luxury line featuring Japanese two-way superstar Shohei Ohtani during the World Baseball Classic in March.
+The “Ohtani effect” was out of the ballpark.
+“Middle-aged or older men, who are not usually expected on cosmetics floors of department stores, drop in and ask for the serum, just pointing to the purple-colored container and without even inquiring about its price,” Kazutoshi Kobayashi, president of the company told The Asahi Shimbun. “I am surprised to say the least.”","高絲公司在今年3月世界棒球經典賽期間，推出以二刀流超級球星大谷翔平為主角、（推銷）旗下奢華路線品牌黛珂的1款美容精華液的廣告。
+結果「大谷效應」大爆發。
+「通常不預期會現身百貨公司化妝品樓層的中老年男性，會順道過來買精華液，（他們）就只是指著（大谷代言的）紫色瓶子，甚至連價格都沒問，」該公司社長小林一俊告訴《朝日新聞》。「我至少可以說感到非常驚訝。」"

@@ -1,0 +1,8 @@
+openai
+gradio
+datasets
+torch
+transformers
+tqdm
+huggingface_hub
+httpx

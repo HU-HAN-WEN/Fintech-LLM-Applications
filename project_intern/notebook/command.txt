@@ -1,0 +1,19 @@
+!python evaluation/run_geval_ground.py \
+    --gen_result_path ./result/resp_summary_TAIDE.jsonl \
+    --output_path ./result/eval_summary_TAIDE.json \
+    --req_method async
+
+
+
+CKPTS_PATH="../../../../../../raid2/model/TAIDE_llama3_8B-chat"
+PROMPT_PATH=./template_prompt/llama2_zh_no_sys.json
+OUTPUT_PATH="./result"
+TASKS="['summary']" 
+
+MAX_NEW_TOKENS=2048
+
+python generation/generate_with_large_lm.py \
+$CKPTS_PATH \
+$OUTPUT_PATH \
+--tasks $TASKS \
+--max_new_tokens $MAX_NEW_TOKENS \

@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.log
+
+# Gradio cache/logs
+gradio_temp/
+
+# OpenAI/HuggingFace API keys - IMPORTANT!
+.env           # 這行是關鍵，它告訴 Git 忽略 .env 文件
+
+# Large files or models (if you download them locally)
+/raid2/model/ # 如果這是你本地的資料夾，確保不會被意外追蹤
+
